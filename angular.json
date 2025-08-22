@@ -66,7 +66,6 @@
       }
     }
   },
-  "defaultProject": "edumig-angular",
   "cli": {
     "analytics": "a6cd8771-2dd1-4904-820a-9e9292d2cadc"
   }
