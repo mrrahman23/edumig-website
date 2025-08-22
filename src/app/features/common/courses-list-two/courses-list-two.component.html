@@ -1,0 +1,52 @@
+
+<div class="w-layout-blockcontainer container w-container">
+  <div data-w-id="21bfc2b5-ce74-286b-80f8-bb64f47d0666" class="w-dyn-list">
+    <div role="list" class="course-wrap-card w-dyn-items" *ngIf="courses.length">
+      <div role="listitem" class="w-dyn-item" *ngFor="let c of courses">
+        <div data-w-id="21bfc2b5-ce74-286b-80f8-bb64f47d0669" class="course-wrap-main"><img loading="lazy" width="410"
+            height="510" 
+            [alt]="c.title" [src]="c.image"
+            sizes="(max-width: 479px) 100vw, 410px"
+            class="course-three-image">
+            <div class="course-card-three-overlay"></div>
+            <!-- srcset="https://cdn.prod.website-files.com/66cbf9eecd2d43a6644e1854/6710bd0293bbfbd5e9b9c0b4_Course%20Image-5-p-500.webp 500w, https://cdn.prod.website-files.com/66cbf9eecd2d43a6644e1854/6710bd0293bbfbd5e9b9c0b4_Course%20Image-5-p-800.webp 800w, https://cdn.prod.website-files.com/66cbf9eecd2d43a6644e1854/6710bd0293bbfbd5e9b9c0b4_Course%20Image-5.webp 820w" -->
+          <div class="course-card-three-content">
+            <div class="small-shot-heading text-light-white">{{ c.category }}</div>
+            <div class="heading-four text-white course-name-three-gap">{{ c.title }}
+            </div>
+            <div class="w-layout-hflex course-three-rating"><img
+              src="assets/images/Rating.svg" loading="lazy" alt="">
+              <div class="small-shot-heading text-light-white">>{{ c.rating }}</div>
+            </div>
+            <div data-w-id="21bfc2b5-ce74-286b-80f8-bb64f47d0672" class="course-three-buttons">
+              <div class="w-layout-hflex course-three-button-wrap">
+                <a data-w-id="21bfc2b5-ce74-286b-80f8-bb64f47d0677"
+                  href="/product/advanced-photoshop-techniques-for-designers"
+                  class="button buy-button button-yellow w-inline-block">
+                  <div>Buy course</div>
+                </a></div>
+            </div>
+            <div data-w-id="21bfc2b5-ce74-286b-80f8-bb64f47d067a" class="course-three-cards-border-one">
+            </div>
+            <div data-w-id="21bfc2b5-ce74-286b-80f8-bb64f47d067b" class="course-three-cards-border-two">
+            </div>
+            <div data-w-id="21bfc2b5-ce74-286b-80f8-bb64f47d067c" class="course-three-cards-border-three">
+            </div>
+            <div data-w-id="21bfc2b5-ce74-286b-80f8-bb64f47d067d" class="course-three-cards-border-four">
+            </div>
+            <div data-w-id="21bfc2b5-ce74-286b-80f8-bb64f47d067e" class="course-price-wrapper course-three-price"
+              >
+              <div *ngIf="c.price > 0"
+                class="w-condition-invisible">${{c.price}}&nbsp;</div>
+              <div *ngIf="c.price === 0">
+                Free</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- <div class="w-dyn-empty">
+      <div>No items found.</div>
+    </div> -->
+  </div>
+</div>

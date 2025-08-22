@@ -1,0 +1,94 @@
+<!-- Page wrapper to match Webflow classes -->
+<div class="w-users-userformpagewrap page-wrapper log-in">
+
+    <!-- Minimal top logo bar -->
+    <section class="membership-logo">
+      <div class="w-layout-blockcontainer contact-three-container w-container">
+        <div class="w-layout-hflex membership-nav">
+          <app-logo></app-logo>
+        </div>
+      </div>
+    </section>
+  
+    <!-- Login form (Angular Reactive Forms) -->
+    <div class="w-users-userloginformwrapper log-in-form-block">
+      <form [formGroup]="form" (ngSubmit)="onSubmit()">
+        <div class="login-form-top">
+          <h2 class="no-margin text-white">Log in</h2>
+          <div class="text-white">More than 50k students have joined Elearna already</div>
+        </div>
+  
+        <div class="w-users-userformheader form-header log-in-form">
+          <label for="email" class="field-label">Email address</label>
+          <input id="email"
+                 type="email"
+                 class="user-email-field input-field-gap w-input"
+                 formControlName="email"
+                 autocomplete="username"
+                 required />
+  
+          <label for="password" class="field-label">Password</label>
+          <input id="password"
+                 type="password"
+                 class="user-email-field w-input"
+                 formControlName="password"
+                 autocomplete="current-password"
+                 required />
+  
+          <button type="submit" class="w-users-userformbutton w-button button button-yellow"
+                  [disabled]="form.invalid || loading">
+            {{ loading ? 'Please wait…' : 'Log In' }}
+          </button>
+  
+          <div class="w-users-userformfooter form-footer">
+            <span class="text-light-white">Don't have an account?</span>
+            <a routerLink="/sign-up" class="link-hover w-inline-block">Sign Up</a>
+          </div>
+  
+          <!-- Error message -->
+          <div *ngIf="error" class="w-users-userformerrorstate w-form-fail" style="display:block">
+            <div class="user-form-error-msg">
+              {{ error }}
+            </div>
+          </div>
+        </div>
+      </form>
+  
+      <!-- Test login info (static text to match design) -->
+      <div class="w-layout-vflex test-login-user">
+        <div class="w-layout-hflex test-log-in-top">
+          <div class="log-in-border"></div>
+          <div class="text-white">Test login</div>
+          <div class="log-in-border"></div>
+        </div>
+        <!-- <div class="text-light-white">Test user: {{"elearnatest@gmail.com"}}</div>
+        <div class="text-light-white">Password: {{"Elearna1234"}}</div> -->
+      </div>
+    </div>
+  
+    <!-- Bottom footer links (page-specific, not the global footer) -->
+    <section class="contact-three-footer">
+      <div class="w-layout-blockcontainer contact-three-container top-border w-container">
+        <div class="w-layout-hflex contact-three-footer-main">
+  
+          <div class="w-layout-hflex contact-footer-links-wrapper">
+            <a routerLink="/information/style-guide" class="footer-small-link">Style guide</a>
+            <a href="https://elearna.webflow.io/401" target="_blank" rel="noopener" class="footer-small-link">Password protected</a>
+            <a href="https://elearna.webflow.io/404" target="_blank" rel="noopener" class="footer-small-link">404</a>
+            <a routerLink="/information/license" class="footer-small-link">License</a>
+          </div>
+  
+          <div class="w-layout-hflex contact-footer-links-wrapper">
+            <div class="small-heading small-heading-mobile">
+              Design by <a href="https://www.radianttemplates.com" target="_blank" rel="noopener" class="footer-small-link">Radiant Templates</a>
+            </div>
+            <div class="small-heading small-heading-mobile">
+              Powered by <a href="https://webflow.com/?r=0" target="_blank" rel="noopener" class="footer-small-link">webflow</a>
+            </div>
+          </div>
+  
+        </div>
+      </div>
+    </section>
+  </div>
+  

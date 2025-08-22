@@ -1,0 +1,27 @@
+/* Global styles */
+@import 'assets/webflow/normalize.css';
+@import 'assets/webflow/webflow.css';
+@import 'assets/webflow/edumig-1e2587.webflow.css';
+
+/* Place any global overrides below */
+:root {
+    --font-primary: 'Space Grotesk', system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    --font-secondary: 'Outfit', system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    --font-script: 'Bonheur Royale', cursive;
+  }
+  
+  html, body {
+    font-family: var(--font-primary);
+  }
+  
+  /* If some headings use Outfit in your design */
+  .h1, .h2, .heading-one, .heading-two,
+  .heading-three, .heading-four {
+    font-family: var(--font-secondary);
+  }
+  
+  /* If you have any script-style accents */
+  .script, .brand-script {
+    font-family: var(--font-script);
+  }
+  

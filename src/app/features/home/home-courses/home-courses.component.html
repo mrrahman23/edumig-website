@@ -1,0 +1,52 @@
+<section class="home-one-courses">
+    <div class="w-layout-blockcontainer container w-container">
+      <div class="w-layout-vflex home-one-courses-top">
+        <div data-w-id="a5ff96f1-0b24-9a8e-5c74-a45508423d0b" class="small-heading text-dark">Online learning</div>
+        <h2 data-w-id="1e105df6-a269-dbba-7c92-4523dfddf9bd" class="no-margin-bottom heading-two-gap">Top online courses</h2>
+      </div>
+      <div data-current="Tab 1" data-easing="ease" data-duration-in="300" data-duration-out="100" class="home-one-courses-tab w-tabs">
+        <div data-w-id="6aed1a4f-0557-2995-c039-1b386c5ddca4" class="tabs-menu w-tab-menu">
+          <a data-w-tab="Tab 1" class="tab-option w-inline-block w-tab-link w--current">
+            <div>All courses</div>
+          </a>
+          <a data-w-tab="Tab 2" class="tab-option w-inline-block w-tab-link">
+            <div>Design</div>
+          </a>
+          <a data-w-tab="Tab 3" class="tab-option w-inline-block w-tab-link">
+            <div>Development</div>
+          </a>
+          <a data-w-tab="Tab 4" class="tab-option w-inline-block w-tab-link">
+            <div>Management</div>
+          </a>
+          <a data-w-tab="Tab 5" class="tab-option w-inline-block w-tab-link">
+            <div>Finance</div>
+          </a>
+        </div>
+        <div class="tabs-content w-tab-content">
+          <div data-w-tab="Tab 1" class="w-tab-pane w--tab-active">
+            <!-- <div class="courses-cards-wrapper"> -->
+              <app-courses-list [input_courses]="courses"></app-courses-list>
+            <!-- </div> -->
+          </div>
+          <div data-w-tab="Tab 2" class="w-tab-pane">
+            <!-- <div class="courses-cards-wrapper"> -->
+              <app-courses-list [input_courses]="courses"></app-courses-list>
+            <!-- </div> -->
+          </div>
+          <div data-w-tab="Tab 3" class="w-tab-pane">
+              <app-courses-list [input_courses]="courses"></app-courses-list>
+          </div>
+          <div data-w-tab="Tab 4" class="w-tab-pane">
+            <app-courses-list [input_courses]="courses"></app-courses-list>
+          </div>
+          <div data-w-tab="Tab 5" class="w-tab-pane">
+            <app-courses-list [input_courses]="courses"></app-courses-list>
+          </div>
+        </div>
+      </div>
+      <div data-w-id="72cdbb0d-c615-a688-34aa-d28da4623457" class="w-layout-blockcontainer more-courses-container w-container">
+        <div>We assist you in finding the ideal tutor at no cost. <a outerLink="/courses/course-one" class="button-font">Browse all available courses</a>
+        </div>
+      </div>
+    </div>
+  </section>

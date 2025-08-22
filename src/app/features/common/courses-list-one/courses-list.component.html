@@ -1,0 +1,100 @@
+<div class="courses-cards-wrapper">
+  <div data-w-id="d3eeb093-70ea-f21b-d4ed-c11137cc875a" class="w-dyn-list" *ngFor="let c of courses">
+    <div role="list" class="w-dyn-items">
+      <div role="listitem" class="w-dyn-item">
+        <div class="courser-card-one">
+          <a [routerLink]="c.url" class="course-card-image-wrapper w-inline-block">
+            <img width="410" height="254" [alt]="c.title" [src]="c.image" class="course-card-image" loading="lazy" />
+          </a>
+      
+          <div class="w-layout-vflex course-content">
+            <div class="small-shot-heading margin-bottom-twenty">{{ c.category }}</div>
+            <div class="heading-four course-heading">{{ c.title }}</div>
+      
+            <div class="w-layout-hflex course-rating">
+              <img width="79" height="19" alt="Rating" src="assets/images/Rating.svg" loading="lazy" />
+              <div class="small-shot-heading small-heading-body-color ">{{ c.rating }}</div>
+            </div>
+      
+            <div class="cards-wrap">
+              <div class="course-cards-button-wrapper course-cards-information">
+                <div class="cards-button-left">
+                  <div class="w-layout-hflex course-information">
+                    <img width="16" height="16" alt="Icon" src="assets/images/Books.svg" loading="lazy" />
+                    <div class="menu-font text-dark">{{ c.lessons }} Lessons</div>
+                  </div>
+                </div>
+                <div class="cards-button-right">
+                  <div class="w-layout-hflex course-information align-right">
+                    <img width="12" height="14" alt="Icon" src="assets/images/Person.svg" loading="lazy" />
+                    <div class="menu-font text-dark">{{ c.enrolled }}</div>
+                  </div>
+                </div>
+              </div>
+      
+              <div class="course-cards-button-wrapper course-cards-button" [class.free-card]="c.price === 0">
+                <div class="cards-button-left cousers-button-wrapper-border" [class.border-off]="c.price === 0">
+                  <div class="buttons-hover-show">
+                    <a [routerLink]="c.url" class="button button-yellow course-button w-inline-block">
+                      <div>Course Details</div>
+                    </a>
+                  </div>
+                </div>
+                <div class="cards-button-right" *ngIf="c.price > 0">
+                  <div class="buttons-hover-show">
+                    <a [routerLink]="c.url" class="button button-border-off course-button w-inline-block">
+                      <div>Enroll</div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+      
+            <div class="course-price-wrapper">
+              <div>{{ c.priceLabel }}</div>
+            </div>
+          </div>
+        </div>
+        <!-- <div data-w-id="a29111d3-6faa-12fc-b66a-47560750de55" class="courser-card-one">
+          <a href="#" class="course-card-image-wrapper w-inline-block"><img width="410" height="254" alt="Course Image" src="assets/images/Course Image-7.webp" loading="lazy" data-w-id="a29111d3-6faa-12fc-b66a-47560750de57" class="course-card-image "></a>
+          <div class="w-layout-vflex course-content">
+            <div class="small-shot-heading margin-bottom-twenty">Management</div>
+            <div class="heading-four course-heading">Crisis management and problem-solving strategies</div>
+            <div class="w-layout-hflex course-rating"><img width="79" height="19" alt="" src="assets/images/Rating.svg" loading="lazy">
+              <div class="small-shot-heading small-heading-body-color "></div>
+            </div>
+            <div class="cards-wrap">
+              <div data-w-id="597a1800-b84a-7241-df70-64a4c5f22774" class="course-cards-button-wrapper course-cards-information">
+                <div class="cards-button-left">
+                  <div class="w-layout-hflex course-information"><img width="16" height="16" alt="Icon" src="assets/images/Books.svg" loading="lazy">
+                    <div class="menu-font text-dark">6 Lessons</div>
+                  </div>
+                </div>
+                <div class="cards-button-right">
+                  <div class="w-layout-hflex course-information align-right"><img width="12" height="14" alt="Icon" src="assets/images/Person.svg" loading="lazy">
+                    <div class="menu-font text-dark">8k Enrolled</div>
+                  </div>
+                </div>
+              </div>
+              <div class="course-cards-button-wrapper course-cards-button free-card">
+                <div class="cards-button-left cousers-button-wrapper-border border-off">
+                  <div class="buttons-hover-show">
+                    <a data-w-id="597a1800-b84a-7241-df70-64a4c5f22782" href="#" class="button button-yellow course-button w-inline-block">
+                      <div>Course Details</div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div data-w-id="a29111d3-6faa-12fc-b66a-47560750de74" class="course-price-wrapper">
+              <div>Free</div>
+            </div>
+          </div>
+        </div> -->
+      </div>
+    </div>
+    <div class="w-dyn-empty">
+      <!-- <div>No items found.</div> -->
+    </div>
+  </div>
+</div>

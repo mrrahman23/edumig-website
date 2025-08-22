@@ -1,0 +1,12 @@
+.navbar-box { position: sticky; top: 0; z-index: 50; background: #fff; transition: box-shadow .2s; }
+.navbar-box.is-sticky { box-shadow: 0 6px 24px rgba(0,0,0,.06); }
+
+/* Mobile menu open helper (Webflow-like) */
+.w-nav-menu { display: none; }
+.w-nav-menu.w--nav-menu-open { display: block; }
+
+/* Desktop keeps native hover behavior */
+@media (min-width: 992px) {
+  .w-nav-menu { display: flex !important; }
+  .w-dropdown:hover .w-dropdown-list { display: block; }
+}

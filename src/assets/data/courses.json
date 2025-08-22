@@ -1,0 +1,123 @@
+[
+    {
+      "id": "cm-ps",
+      "title": "Crisis management and problem-solving strategies",
+      "category": "management",
+      "image": "assets/images/Course Image-7.webp",
+      "rating": 4.8,
+      "lessons": 6,
+      "enrolled": "8k Enrolled",
+      "price": 0,
+      "priceLabel": "Free",
+      "url": "/courses/crisis-management"
+    },
+    {
+      "id": "leadership-fundamentals",
+      "title": "Leadership fundamentals for new managers",
+      "category": "management",
+      "image": "assets/images/Course Image-7.webp",
+      "rating": 4.7,
+      "lessons": 10,
+      "enrolled": "5.2k Enrolled",
+      "price": 79,
+      "priceLabel": "$79",
+      "url": "/courses/leadership-fundamentals"
+    },
+    {
+      "id": "design-systems",
+      "title": "Design systems: from tokens to components",
+      "category": "Design",
+      "image": "assets/images/Course Image-7.webp",
+      "rating": 4.6,
+      "lessons": 12,
+      "enrolled": "3.9k Enrolled",
+      "price": 99,
+      "priceLabel": "$99",
+      "url": "/courses/design-systems"
+    },
+    {
+      "id": "web-dev-essentials",
+      "title": "Web development essentials (HTML, CSS, JS)",
+      "category": "Web Development",
+      "image": "assets/images/Course Image-7.webp",
+      "rating": 4.7,
+      "lessons": 24,
+      "enrolled": "12k Enrolled",
+      "price": 0,
+      "priceLabel": "Free",
+      "url": "/courses/web-dev-essentials"
+    },
+    {
+      "id": "angular-pro",
+      "title": "Angular Pro: Signals, Standalone & RxJS",
+      "category": "Web Development",
+      "image": "assets/images/Course Image-7.webp",
+      "rating": 4.8,
+      "lessons": 48,
+      "enrolled": "7.1k Enrolled",
+      "price": 129,
+      "priceLabel": "$129",
+      "url": "/courses/angular-pro"
+    },
+    {
+      "id": "mongo-advanced",
+      "title": "Advanced MongoDB aggregations",
+      "category": "Databases",
+      "image": "assets/images/Course Image-7.webp",
+      "rating": 4.9,
+      "lessons": 30,
+      "enrolled": "4.3k Enrolled",
+      "price": 139,
+      "priceLabel": "$139",
+      "url": "/courses/mongo-advanced"
+    },
+    {
+      "id": "react-native-zero-to-store",
+      "title": "React Native: zero to app store",
+      "category": "Mobile",
+      "image": "assets/images/Course Image-7.webp",
+      "rating": 4.6,
+      "lessons": 40,
+      "enrolled": "6.4k Enrolled",
+      "price": 109,
+      "priceLabel": "$109",
+      "url": "/courses/react-native"
+    },
+    {
+      "id": "python-ml",
+      "title": "Python for machine learning",
+      "category": "AI & Data",
+      "image": "assets/images/Course Image-7.webp",
+      "rating": 4.7,
+      "lessons": 52,
+      "enrolled": "9.8k Enrolled",
+      "price": 149,
+      "priceLabel": "$149",
+      "url": "/courses/python-ml"
+    },
+    {
+      "id": "devops-essentials",
+      "title": "DevOps essentials: CI/CD & Docker",
+      "category": "DevOps",
+      "image": "assets/images/Course Image-7.webp",
+      "rating": 4.6,
+      "lessons": 28,
+      "enrolled": "5.7k Enrolled",
+      "price": 99,
+      "priceLabel": "$99",
+      "url": "/courses/devops-essentials"
+    },
+    {
+      "id": "typescript-mastery",
+      "title": "TypeScript mastery",
+      "category": "Programming",
+      "image": "assets/images/Course Image-7.webp",
+      "rating": 4.8,
+      "lessons": 26,
+      "enrolled": "3.1k Enrolled",
+      "price": 89,
+      "priceLabel": "$89",
+      "url": "/courses/typescript-mastery"
+    }
+  ]
+  

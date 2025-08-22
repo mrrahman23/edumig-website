@@ -1,0 +1,64 @@
+<section class="course-one-hero">
+    <div class="w-layout-blockcontainer course-one-hero-container w-container">
+      <div class="w-layout-vflex course-one-hero-wrap">
+        <h1 data-w-id="6d064c50-bbef-66cc-4180-36fe7e8a48b8" class="heading-one-top-gap text-white"> {{ currentSlug.toLocaleUpperCase() }} </h1>
+      </div>
+    </div>
+  </section>
+  <section class="category-section" *ngIf="filteredCourses.length">
+      <app-courses-two-list [input_courses]="filteredCourses"></app-courses-two-list>
+  </section>
+  <!-- <section class="category-section">
+    <div class="w-layout-blockcontainer container w-container">
+      <div data-w-id="21bfc2b5-ce74-286b-80f8-bb64f47d0666" class="w-dyn-list">
+        <div role="list" class="course-wrap-card w-dyn-items">
+          <div role="listitem" class="w-dyn-item">
+            <div data-w-id="21bfc2b5-ce74-286b-80f8-bb64f47d0669" class="course-wrap-main">
+                <img loading="lazy" width="410" height="510" alt="" src="" class="course-three-image">
+              <div class="course-card-three-overlay"></div>
+              <div class="course-card-three-content">
+                <div class="small-shot-heading text-light-white"></div>
+                <div class="heading-four text-white course-name-three-gap"></div>
+                <div class="w-layout-hflex course-three-rating"><img src="assets/images/Rating.svg" loading="lazy" alt="">
+                  <div class="small-shot-heading text-light-white"></div>
+                </div>
+                <div data-w-id="21bfc2b5-ce74-286b-80f8-bb64f47d0672" class="course-three-buttons">
+                  <div class="w-layout-hflex course-three-button-wrap">
+                    <a data-w-id="21bfc2b5-ce74-286b-80f8-bb64f47d0677" href="#" class="button buy-button button-yellow w-inline-block">
+                      <div>Buy course</div>
+                    </a>
+                  </div>
+                </div>
+                <div data-w-id="21bfc2b5-ce74-286b-80f8-bb64f47d067a" class="course-three-cards-border-one"></div>
+                <div data-w-id="21bfc2b5-ce74-286b-80f8-bb64f47d067b" class="course-three-cards-border-two"></div>
+                <div data-w-id="21bfc2b5-ce74-286b-80f8-bb64f47d067c" class="course-three-cards-border-three"></div>
+                <div data-w-id="21bfc2b5-ce74-286b-80f8-bb64f47d067d" class="course-three-cards-border-four"></div>
+                <div data-w-id="21bfc2b5-ce74-286b-80f8-bb64f47d067e" class="course-price-wrapper course-three-price">
+                  <div></div>
+                  <div>Free</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="w-dyn-empty">
+          <div>No items found.</div>
+        </div>
+      </div>
+    </div>
+  </section> -->
+  <section class="cta-three">
+    <div class="w-layout-blockcontainer cta-three-container w-container">
+      <div class="w-layout-hflex cta-three-main">
+        <div data-w-id="88293f59-0187-6056-3a72-86586e29ff70" class="heading-three cta-heading text-white">Are you ready to start your journey?</div>
+        <div data-w-id="88293f59-0187-6056-3a72-86586e29ff72" class="w-layout-hflex cta-button-wrapper">
+          <a data-w-id="890a1aa9-6573-2ea8-6a51-6c8deb450bab" href="course-one.html" class="button white-border-button w-inline-block">
+            <div>Browse courses</div>
+          </a>
+          <a data-w-id="d2419891-9f36-e25c-7c72-b1716c5d291d" href="career.html" class="button button-yellow w-inline-block">
+            <div>Became an  instructor</div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
