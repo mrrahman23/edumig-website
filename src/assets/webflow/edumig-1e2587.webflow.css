@@ -1495,7 +1495,7 @@ blockquote {
   background-color: var(--color--light-blue);
   color: var(--color--heading-color);
   font-size: var(--font-size-desktop--testimonial);
-  background-image: url('../images/Quote-Icon.svg');
+  background-image: url('https://app.theurbangaragebd.com/edumig/images/Quote-Icon.svg');
   background-position: 50px 25px;
   background-repeat: no-repeat;
   background-size: auto;
@@ -1675,7 +1675,7 @@ blockquote {
 
 .home-one-hero {
   background-color: var(--color--heading-color);
-  background-image: url('../images/Home-One-Hero-Background-1_1Home One Hero Background (1).avif');
+  background-image: url('https://app.theurbangaragebd.com/edumig/images/Home-One-Hero-Background-1_1Home One Hero Background (1).avif');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1988,7 +1988,7 @@ blockquote {
 
 .quick-start-card-one {
   background-color: var(--color--light-blue);
-  background-image: url('../images/Woman-Using-Laptop_1Woman Using Laptop.webp');
+  background-image: url('https://app.theurbangaragebd.com/edumig/images/Woman-Using-Laptop_1Woman Using Laptop.webp');
   background-position: 100%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -2627,7 +2627,7 @@ blockquote {
 
 .footer-one {
   background-color: var(--color--heading-color);
-  background-image: url('../images/Footer-One-Background-3_1Footer One Background-3.avif');
+  background-image: url('https://app.theurbangaragebd.com/edumig/images/Footer-One-Background-3_1Footer One Background-3.avif');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2709,7 +2709,7 @@ blockquote {
 
 .home-one-testimonial {
   background-color: var(--color--heading-color);
-  background-image: url('../images/Testimonial-Background_1Testimonial Background.avif');
+  background-image: url('https://app.theurbangaragebd.com/edumig/images/Testimonial-Background_1Testimonial Background.avif');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3059,7 +3059,7 @@ blockquote {
 }
 
 .home-two-hero {
-  background-image: url('../images/Home-Two-Banner_1Home Two Banner.webp');
+  background-image: url('https://app.theurbangaragebd.com/edumig/images/Home-Two-Banner_1Home Two Banner.webp');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3213,7 +3213,7 @@ blockquote {
 }
 
 .home-two-offer {
-  background-image: linear-gradient(90deg, #00000080, #0000), url('../images/Boy-Using-Laptop-Image_1Boy Using Laptop Image.webp');
+  background-image: linear-gradient(90deg, #00000080, #0000), url('https://app.theurbangaragebd.com/edumig/images/Boy-Using-Laptop-Image_1Boy Using Laptop Image.webp');
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -3385,7 +3385,7 @@ blockquote {
 
 .footer-two {
   background-color: var(--color--heading-color);
-  background-image: url('../images/Noisy-Background_1Noisy Background.webp');
+  background-image: url('https://app.theurbangaragebd.com/edumig/images/Noisy-Background_1Noisy Background.webp');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3470,7 +3470,7 @@ blockquote {
 .home-two-learning-image-wrap {
   grid-column-gap: 20px;
   grid-row-gap: 20px;
-  background-image: url('../images/Yellow-Circle.svg'), url('../images/Outline-Circle.svg');
+  background-image: url('https://app.theurbangaragebd.com/edumig/images/Yellow-Circle.svg'), url('https://app.theurbangaragebd.com/edumig/images/Outline-Circle.svg');
   background-position: 17% 0, 15px 100%;
   background-repeat: no-repeat, no-repeat;
   background-size: auto, auto;
@@ -3672,7 +3672,7 @@ blockquote {
 
 .home-three-hero {
   background-color: var(--color--heading-color);
-  background-image: url('../images/Home-Three-Background_1Home Three Background.webp');
+  background-image: url('https://app.theurbangaragebd.com/edumig/images/Home-Three-Background_1Home Three Background.webp');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3838,7 +3838,7 @@ blockquote {
 }
 
 .home-three-counter {
-  background-image: linear-gradient(#081416b3, #081416b3), url('../images/Studio-Image_1Studio Image.webp');
+  background-image: linear-gradient(#081416b3, #081416b3), url('https://app.theurbangaragebd.com/edumig/images/Studio-Image_1Studio Image.webp');
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -4104,7 +4104,7 @@ blockquote {
 
 .about-one-hero {
   background-color: var(--color--heading-color);
-  background-image: url('../images/About-One-Hero_1About One Hero.webp');
+  background-image: url('https://app.theurbangaragebd.com/edumig/images/About-One-Hero_1About One Hero.webp');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -4191,7 +4191,7 @@ blockquote {
 }
 
 .cta-three {
-  background-image: linear-gradient(#0a171a66, #0a171a66), url('../images/Office-Image_1Office Image.webp');
+  background-image: linear-gradient(#0a171a66, #0a171a66), url('https://app.theurbangaragebd.com/edumig/images/Office-Image_1Office Image.webp');
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -4257,7 +4257,7 @@ blockquote {
 }
 
 .about-two-hero {
-  background-image: linear-gradient(#081012b3, #081012b3), url('../images/About-Two-Hero_1About Two Hero.webp');
+  background-image: linear-gradient(#081012b3, #081012b3), url('https://app.theurbangaragebd.com/edumig/images/About-Two-Hero_1About Two Hero.webp');
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -4290,7 +4290,7 @@ blockquote {
 
 .about-two-instructor {
   background-color: var(--color--heading-color);
-  background-image: url('../images/Backgorund-Noise-Two_1Backgorund Noise Two.webp');
+  background-image: url('https://app.theurbangaragebd.com/edumig/images/Backgorund-Noise-Two_1Backgorund Noise Two.webp');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -4542,7 +4542,7 @@ blockquote {
 }
 
 .contact-one-hero {
-  background-image: linear-gradient(#000000b3, #000000b3), url('../images/Contact-Us-One_1Contact Us One.webp');
+  background-image: linear-gradient(#000000b3, #000000b3), url('https://app.theurbangaragebd.com/edumig/images/Contact-Us-One_1Contact Us One.webp');
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -4551,7 +4551,7 @@ blockquote {
 }
 
 .contact-one-hero.contact-two-hero {
-  background-image: linear-gradient(#000000b3, #000000b3), url('../images/Contact-Us-One-2_1Contact Us One-2.webp');
+  background-image: linear-gradient(#000000b3, #000000b3), url('https://app.theurbangaragebd.com/edumig/images/Contact-Us-One-2_1Contact Us One-2.webp');
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -4850,7 +4850,7 @@ blockquote {
 }
 
 .contact-two-form {
-  background-image: url('../images/Contact-Background-2_1Contact Background-2.webp');
+  background-image: url('https://app.theurbangaragebd.com/edumig/images/Contact-Background-2_1Contact Background-2.webp');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -4858,7 +4858,7 @@ blockquote {
 }
 
 .contact-three {
-  background-image: linear-gradient(#0009, #0009), url('../images/Contact-Three-Background.webp');
+  background-image: linear-gradient(#0009, #0009), url('https://app.theurbangaragebd.com/edumig/images/Contact-Three-Background.webp');
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -5027,7 +5027,7 @@ blockquote {
 }
 
 .faq-hero {
-  background-image: linear-gradient(#000000b3, #000000b3), url('../images/FAQ-Hero_1FAQ Hero.webp');
+  background-image: linear-gradient(#000000b3, #000000b3), url('https://app.theurbangaragebd.com/edumig/images/FAQ-Hero_1FAQ Hero.webp');
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -5075,7 +5075,7 @@ blockquote {
   color: var(--color--grey-blue);
   font-size: var(--font-size-desktop--h5);
   letter-spacing: -.5px;
-  background-image: url('../images/Vector-2.svg');
+  background-image: url('https://app.theurbangaragebd.com/edumig/images/Vector-2.svg');
   background-position: 93%;
   background-repeat: no-repeat;
   background-size: 13px;
@@ -5090,13 +5090,13 @@ blockquote {
 .tab-link.w--current {
   background-color: var(--color--deep-green);
   color: var(--color--white);
-  background-image: url('../images/Button-Arrow-White-1_1Button Arrow White 1.png');
+  background-image: url('https://app.theurbangaragebd.com/edumig/images/Button-Arrow-White-1_1Button Arrow White 1.png');
   background-position: 93%;
   background-size: 13px;
 }
 
 .pricing-one-hero {
-  background-image: linear-gradient(#142022b3, #142022b3), url('../images/Pricing-One-Hero_1Pricing One Hero.webp');
+  background-image: linear-gradient(#142022b3, #142022b3), url('https://app.theurbangaragebd.com/edumig/images/Pricing-One-Hero_1Pricing One Hero.webp');
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -5243,7 +5243,7 @@ blockquote {
 
 .pricing-two-hero {
   background-color: var(--color--heading-color);
-  background-image: url('../images/Noisy-Background_1Noisy Background.webp');
+  background-image: url('https://app.theurbangaragebd.com/edumig/images/Noisy-Background_1Noisy Background.webp');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -5398,7 +5398,7 @@ blockquote {
 }
 
 .utility-page-wrap {
-  background-image: linear-gradient(#0f252aed, #0f252aed), url('../images/404-Image_1404 Image.webp');
+  background-image: linear-gradient(#0f252aed, #0f252aed), url('https://app.theurbangaragebd.com/edumig/images/404-Image_1404 Image.webp');
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -5412,7 +5412,7 @@ blockquote {
 }
 
 .utility-page-wrap.passowrd-page-wrap {
-  background-image: url('../images/Protected-page_1Protected page.webp');
+  background-image: url('https://app.theurbangaragebd.com/edumig/images/Protected-page_1Protected page.webp');
   background-position: 50%;
   background-size: cover;
   padding-left: 15px;
@@ -5496,7 +5496,7 @@ blockquote {
 
 .page-wrapper {
   background-color: var(--color--heading-color);
-  background-image: url('../images/Membership-Background_1Membership Background.webp');
+  background-image: url('https://app.theurbangaragebd.com/edumig/images/Membership-Background_1Membership Background.webp');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -5601,7 +5601,7 @@ blockquote {
 }
 
 .career-hero {
-  background-image: linear-gradient(#142022b3, #142022b3), url('../images/Pricing-One-Hero_1Pricing One Hero.webp');
+  background-image: linear-gradient(#142022b3, #142022b3), url('https://app.theurbangaragebd.com/edumig/images/Pricing-One-Hero_1Pricing One Hero.webp');
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -5766,7 +5766,7 @@ blockquote {
 }
 
 .career-details-hero {
-  background-image: linear-gradient(#142022b3, #142022b3), url('../images/Course-Background-6.webp');
+  background-image: linear-gradient(#142022b3, #142022b3), url('https://app.theurbangaragebd.com/edumig/images/Course-Background-6.webp');
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -5843,7 +5843,7 @@ blockquote {
 }
 
 .events-hero {
-  background-image: linear-gradient(#000000b3, #000000b3), url('../images/Events-Banner_1Events Banner.webp');
+  background-image: linear-gradient(#000000b3, #000000b3), url('https://app.theurbangaragebd.com/edumig/images/Events-Banner_1Events Banner.webp');
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -6139,7 +6139,7 @@ blockquote {
 }
 
 .team-hero {
-  background-image: linear-gradient(#000000b3, #000000b3), url('../images/Team-Hero-Image_1Team Hero Image.webp');
+  background-image: linear-gradient(#000000b3, #000000b3), url('https://app.theurbangaragebd.com/edumig/images/Team-Hero-Image_1Team Hero Image.webp');
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -6444,7 +6444,7 @@ blockquote {
 }
 
 .blog-hero {
-  background-image: linear-gradient(#000000b3, #000000b3), url('../images/Blog-Hero-Image_1Blog Hero Image.webp');
+  background-image: linear-gradient(#000000b3, #000000b3), url('https://app.theurbangaragebd.com/edumig/images/Blog-Hero-Image_1Blog Hero Image.webp');
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -6691,7 +6691,7 @@ blockquote {
 
 .career-details-form {
   outline-offset: 0px;
-  background-image: linear-gradient(#00000080, #00000080), url('../images/Career-Form-Background_1Career Form Background.webp');
+  background-image: linear-gradient(#00000080, #00000080), url('https://app.theurbangaragebd.com/edumig/images/Career-Form-Background_1Career Form Background.webp');
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -6743,7 +6743,7 @@ blockquote {
 
 .course-one-hero {
   background-color: var(--color--heading-color);
-  background-image: url('../images/Course-One-Hero-Backgorund_1Course One Hero Backgorund.webp');
+  background-image: url('https://app.theurbangaragebd.com/edumig/images/Course-One-Hero-Backgorund_1Course One Hero Backgorund.webp');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -6800,7 +6800,7 @@ blockquote {
 }
 
 .course-two-hero {
-  background-image: linear-gradient(96deg, #0e212500, var(--color--heading-color)), url('../images/Course-Two-Hero_1Course Two Hero.webp');
+  background-image: linear-gradient(96deg, #0e212500, var(--color--heading-color)), url('https://app.theurbangaragebd.com/edumig/images/Course-Two-Hero_1Course Two Hero.webp');
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -6887,7 +6887,7 @@ blockquote {
 }
 
 .course-hero {
-  background-image: url('../images/Course-Two-Hero_1Course Two Hero.webp');
+  background-image: url('https://app.theurbangaragebd.com/edumig/images/Course-Two-Hero_1Course Two Hero.webp');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -7177,7 +7177,7 @@ blockquote {
 
 .checkout-hero-section {
   background-color: var(--color--heading-color);
-  background-image: url('../images/Course-One-Hero-Backgorund_1Course One Hero Backgorund.webp');
+  background-image: url('https://app.theurbangaragebd.com/edumig/images/Course-One-Hero-Backgorund_1Course One Hero Backgorund.webp');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -7377,7 +7377,7 @@ blockquote {
 
 .landing-hero {
   background-color: var(--color--heading-color);
-  background-image: url('../images/Landing-Hero-Background_1Landing Hero Background.avif');
+  background-image: url('https://app.theurbangaragebd.com/edumig/images/Landing-Hero-Background_1Landing Hero Background.avif');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -7964,7 +7964,7 @@ blockquote {
 
 .landing-footer {
   background-color: var(--color--heading-color);
-  background-image: url('../images/Footer-One-Background-3_1Footer One Background-3.avif');
+  background-image: url('https://app.theurbangaragebd.com/edumig/images/Footer-One-Background-3_1Footer One Background-3.avif');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -8334,7 +8334,7 @@ blockquote {
 
 .pricing-three-hero {
   background-color: var(--color--heading-color);
-  background-image: url('../images/About-One-Hero_1About One Hero.webp');
+  background-image: url('https://app.theurbangaragebd.com/edumig/images/About-One-Hero_1About One Hero.webp');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -8543,7 +8543,7 @@ blockquote {
   grid-column-gap: 60px;
   grid-row-gap: 60px;
   background-color: var(--color--brand);
-  background-image: url('../images/BG-shape_1BG shape.webp');
+  background-image: url('https://app.theurbangaragebd.com/edumig/images/BG-shape_1BG shape.webp');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -8874,7 +8874,7 @@ blockquote {
 .spacial-card-one {
   background-color: var(--color--brand);
   text-align: center;
-  background-image: url('../images/BG-shape_1BG shape.webp');
+  background-image: url('https://app.theurbangaragebd.com/edumig/images/BG-shape_1BG shape.webp');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -9992,7 +9992,7 @@ blockquote {
   }
 
   .home-two-hero {
-    background-image: linear-gradient(#00000057, #00000057), url('../images/Home-Two-Banner_1Home Two Banner.webp');
+    background-image: linear-gradient(#00000057, #00000057), url('https://app.theurbangaragebd.com/edumig/images/Home-Two-Banner_1Home Two Banner.webp');
     background-position: 0 0, 50%;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
@@ -10060,7 +10060,7 @@ blockquote {
   }
 
   .home-two-offer {
-    background-image: linear-gradient(90deg, #00000080 23%, #0000), url('../images/Boy-Using-Laptop-Image_1Boy Using Laptop Image.webp');
+    background-image: linear-gradient(90deg, #00000080 23%, #0000), url('https://app.theurbangaragebd.com/edumig/images/Boy-Using-Laptop-Image_1Boy Using Laptop Image.webp');
     background-position: 0 0, 50%;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
@@ -10150,7 +10150,7 @@ blockquote {
   }
 
   .discover-cards {
-    background-image: linear-gradient(#060f1100 17%, #060f11), url('../images/Potential-Image-3_1Potential Image-3.webp');
+    background-image: linear-gradient(#060f1100 17%, #060f11), url('https://app.theurbangaragebd.com/edumig/images/Potential-Image-3_1Potential Image-3.webp');
     background-position: 0 0, 50%;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
@@ -10161,15 +10161,15 @@ blockquote {
   }
 
   .discover-cards.border-off {
-    background-image: linear-gradient(#060f1100 17%, #060f11), url('../images/Potential-Image-2_1Potential Image-2.webp');
+    background-image: linear-gradient(#060f1100 17%, #060f11), url('https://app.theurbangaragebd.com/edumig/images/Potential-Image-2_1Potential Image-2.webp');
   }
 
   .discover-cards.border-off.card-four {
-    background-image: linear-gradient(#060f1100 17%, #060f11), url('../images/Potential-Image-4_1Potential Image-4.webp');
+    background-image: linear-gradient(#060f1100 17%, #060f11), url('https://app.theurbangaragebd.com/edumig/images/Potential-Image-4_1Potential Image-4.webp');
   }
 
   .discover-cards.card-three {
-    background-image: linear-gradient(#060f1100 17%, #060f11), url('../images/Potential-Image_1Potential Image.webp');
+    background-image: linear-gradient(#060f1100 17%, #060f11), url('https://app.theurbangaragebd.com/edumig/images/Potential-Image_1Potential Image.webp');
   }
 
   .course-wrap-three {
@@ -10348,7 +10348,7 @@ blockquote {
   }
 
   .cta-three {
-    background-image: linear-gradient(#0a171a8f, #0a171a8f), url('../images/Office-Image_1Office Image.webp');
+    background-image: linear-gradient(#0a171a8f, #0a171a8f), url('https://app.theurbangaragebd.com/edumig/images/Office-Image_1Office Image.webp');
     background-position: 0 0, 50%;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
@@ -10527,7 +10527,7 @@ blockquote {
   }
 
   .contact-two-form {
-    background-image: linear-gradient(#00000080, #00000080), url('../images/Contact-Background-2_1Contact Background-2.webp');
+    background-image: linear-gradient(#00000080, #00000080), url('https://app.theurbangaragebd.com/edumig/images/Contact-Background-2_1Contact Background-2.webp');
     background-position: 0 0, 50%;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
@@ -10958,7 +10958,7 @@ blockquote {
   }
 
   .course-two-hero {
-    background-image: linear-gradient(96deg, #0e21254d, var(--color--heading-color)), url('../images/Course-Two-Hero_1Course Two Hero.webp');
+    background-image: linear-gradient(96deg, #0e21254d, var(--color--heading-color)), url('https://app.theurbangaragebd.com/edumig/images/Course-Two-Hero_1Course Two Hero.webp');
     background-position: 0 0, 50%;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
@@ -11780,7 +11780,7 @@ blockquote {
   }
 
   .home-two-offer {
-    background-image: linear-gradient(90deg, #00000080 100%, #0000), url('../images/Boy-Using-Laptop-Image_1Boy Using Laptop Image.webp');
+    background-image: linear-gradient(90deg, #00000080 100%, #0000), url('https://app.theurbangaragebd.com/edumig/images/Boy-Using-Laptop-Image_1Boy Using Laptop Image.webp');
     background-position: 0 0, 50%;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
@@ -12728,7 +12728,7 @@ blockquote {
   }
 
   .home-two-offer {
-    background-image: linear-gradient(90deg, #000000b3 100%, #0000), url('../images/Boy-Using-Laptop-Image_1Boy Using Laptop Image.webp');
+    background-image: linear-gradient(90deg, #000000b3 100%, #0000), url('https://app.theurbangaragebd.com/edumig/images/Boy-Using-Laptop-Image_1Boy Using Laptop Image.webp');
     background-position: 0 0, 50%;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
@@ -12863,7 +12863,7 @@ blockquote {
   }
 
   .about-two-hero {
-    background-image: linear-gradient(#081012cc, #081012cc), url('../images/About-Two-Hero_1About Two Hero.webp');
+    background-image: linear-gradient(#081012cc, #081012cc), url('https://app.theurbangaragebd.com/edumig/images/About-Two-Hero_1About Two Hero.webp');
     background-position: 0 0, 50%;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
