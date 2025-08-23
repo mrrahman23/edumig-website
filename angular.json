@@ -54,10 +54,16 @@
         },
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
+          "defaultConfiguration": "development",
           "options": {
-            "buildTarget": "edumig-angular:build:development"
+            "buildTarget": "edumig-angular:build",
+            "host": "0.0.0.0",
+            "port": 4200
           },
           "configurations": {
+            "development": {
+              "buildTarget": "edumig-angular:build:development"
+            },
             "production": {
               "buildTarget": "edumig-angular:build:production"
             }
