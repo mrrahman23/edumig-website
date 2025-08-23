@@ -1,0 +1,22 @@
+version: "3.9"
+
+services:
+  onlineorderdev:
+    image: ${IMAGE_URI:-edumig-angular:latest}
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        BASE_HREF: ${BASE_HREF:-/}
+    container_name: onlineorder-dev
+    restart: unless-stopped
+    ports:
+      - "${HOST_PORT:-8090}:80"
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://127.0.0.1/ >/dev/null || exit 1"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+    env_file:
+      - .env
