@@ -9,35 +9,17 @@
 <section class="course-one-category">
   <div class="w-layout-blockcontainer container w-container">
     <div data-w-id="a5d74e64-e427-df73-3a8c-6ec45317d4dd" class="course-one-category-main">
-      <a routerLink="category/design" class="course-one-category-cards w-inline-block">
-        <div class="category-icons-wrap"><img src="https://app.theurbangaragebd.com/edumig/images/Category-Icons.svg" loading="lazy" width="Auto" height="Auto" alt="Icon"></div>
-        <div class="heading-six margin-bottom-five category-text">Web design and creative</div>
-        <div>8 Courses</div>
-      </a>
-      <a routerLink="category/finance" class="course-one-category-cards w-inline-block">
-        <div class="category-icons-wrap"><img src="https://app.theurbangaragebd.com/edumig/images/Category-Icons-2.svg" loading="lazy" width="Auto" height="Auto" alt="Icon"></div>
-        <div class="heading-six margin-bottom-five category-text">Finance and accounting</div>
-        <div>4 Courses</div>
-      </a>
-      <a routerLink="category/development" class="course-one-category-cards w-inline-block">
-        <div class="category-icons-wrap"><img src="https://app.theurbangaragebd.com/edumig/images/Category-Icons-3.svg" loading="lazy" width="Auto" height="Auto" alt="Icon"></div>
-        <div class="heading-six margin-bottom-five category-text">IT and software</div>
-        <div>5 Courses</div>
-      </a>
-      <a routerLink="category/management" class="course-one-category-cards w-inline-block">
-        <div class="category-icons-wrap"><img src="https://app.theurbangaragebd.com/edumig/images/Category-Icons-4.svg" loading="lazy" width="Auto" height="Auto" alt="Icon"></div>
-        <div class="heading-six margin-bottom-five category-text">Digital marketing</div>
-        <div>4 Courses</div>
-      </a>
-      <a routerLink="category/development" class="course-one-category-cards w-inline-block">
-        <div class="category-icons-wrap"><img src="https://app.theurbangaragebd.com/edumig/images/Category-Icons-5.svg" loading="lazy" width="Auto" height="Auto" alt="Icon"></div>
-        <div class="heading-six margin-bottom-five category-text">Web development</div>
-        <div>8 Courses</div>
-      </a>
-      <a routerLink="category/design" class="course-one-category-cards w-inline-block">
-        <div class="category-icons-wrap"><img src="https://app.theurbangaragebd.com/edumig/images/Category-Icons-6.svg" loading="lazy" width="Auto" height="Auto" alt="Icon"></div>
-        <div class="heading-six margin-bottom-five category-text">Content and language</div>
-        <div>3 Courses</div>
+      <a *ngFor="let cat of categories" [href]="'courses/category/' + cat.slug" class="course-one-category-cards w-inline-block">
+        <div class="category-icons-wrap">
+          <img
+          [src]="'https://app.theurbangaragebd.com/edumig/images/' + cat.icon"
+          alt="{{ cat.title }} icon"
+          loading="lazy"
+        />
+          <!-- <img src="https://app.theurbangaragebd.com/edumig/images/Category-Icons.svg" loading="lazy" width="Auto" height="Auto" alt="Icon"> -->
+        </div>
+        <div class="heading-six margin-bottom-five category-text">{{ cat.title }}</div>
+        <div>{{ cat.courses }} Courses</div>
       </a>
     </div>
   </div>

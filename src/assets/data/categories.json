@@ -1,0 +1,17 @@
+[
+    { "title": "IELTS", "slug": "ielts", "icon": "Category-Icons.svg", "courses": 12 },
+    { "title": "PTE", "slug": "pte", "icon": "Category-Icons-2.svg", "courses": 8 },
+    { "title": "Spoken English", "slug": "spoken-english", "icon": "Category-Icons-3.svg", "courses": 10 },
+    { "title": "Kids English (Senior/Junior)", "slug": "kids-english", "icon": "Category-Icons-4.svg", "courses": 6 },
+    { "title": "Academic English/TOEFL", "slug": "academic-english-toefl", "icon": "Category-Icons-5.svg", "courses": 7 },
+    { "title": "Business English", "slug": "business-english", "icon": "Category-Icons-6.svg", "courses": 5 },
+    { "title": "Short Courses", "slug": "short-courses", "icon": "Category-Icons.svg", "courses": 9 },
+    { "title": "Movie/Chat Club", "slug": "movie-chat-club", "icon": "Category-Icons-2.svg", "courses": 3 },
+    { "title": "Mock Tests", "slug": "mock-tests", "icon": "Category-Icons-3.svg", "courses": 11 },
+    { "title": "CD Mock Test", "slug": "cd-mock-test", "icon": "Category-Icons-4.svg", "courses": 4 },
+    { "title": "Paper Based Mock Test", "slug": "paper-based-mock-test", "icon": "Category-Icons-5.svg", "courses": 2 },
+    { "title": "TOEFL", "slug": "toefl", "icon": "Category-Icons-6.svg", "courses": 8 },
+    { "title": "TOEIC", "slug": "toeic", "icon": "Category-Icons.svg", "courses": 6 },
+    { "title": "Japanese Language", "slug": "japanese-language", "icon": "Category-Icons-2.svg", "courses": 5 },
+    { "title": "Chinese Language", "slug": "chinese-language", "icon": "Category-Icons-3.svg", "courses": 5 }
+]

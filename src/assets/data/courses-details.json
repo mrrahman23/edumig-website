@@ -1,0 +1,139 @@
+{
+    "hero": {
+      "category": "design",
+      "title": "Advanced photoshop techniques for designers",
+      "lessonsText": "10 Lessons"
+    },
+    "stats": [
+      { "icon": "https://app.theurbangaragebd.com/edumig/images/Clock-Icons-2.svg", "label": "Time span", "value": "10 weeks" },
+      { "icon": "https://app.theurbangaragebd.com/edumig/images/Books-Icons_1.svg", "label": "Lectures", "value": "10 Lessons" },
+      { "icon": "https://app.theurbangaragebd.com/edumig/images/Skills-Arrow.svg", "label": "Skill level", "value": "Expert" },
+      { "icon": "https://app.theurbangaragebd.com/edumig/images/Video-Icons.svg", "label": "Video lessons", "value": "2 hours" },
+      { "icon": "https://app.theurbangaragebd.com/edumig/images/Persons.svg", "label": "Students", "value": "8k Enrolled" }
+    ],
+    "overview": {
+      "description": "Lorem ipsum dolor sit amet consectetur. Et facilisis nunc quam quam etiam donec pellentesque ut...",
+      "features": [
+        "Lorem ipsum dolor sit amet consectetur.",
+        "Et facilisis nunc quam quam etiam donec pellentesque ut.",
+        "Nisl pellentesque at aliquam scelerisque non consequat amet curabitur. Imperdiet habitant purus pulvinar diam.",
+        "Molestie pharetra morbi eu odio volutpat.",
+        "Cursus velit elit senectus auctor vitae tristique velit.",
+        "Feugiat consequat diam ipsum suspendisse vestibulum ipsum malesuada."
+      ],
+      "audienceTitle": "What is the target audience?",
+      "audienceText": "Lorem ipsum dolor sit amet consectetur. Nibh urna quis tempus elit ultrices amet..."
+    },
+    "curriculum": [
+      {
+        "tabLabel": "Lesson 1",
+        "title": "Introduction to Corporate Finance and Investments",
+        "intro": "Lorem ipsum dolor sit amet consectetur. Et facilisis nunc quam quam etiam donec pellentesque ut...",
+        "videoUrl": "https://www.youtube.com/embed/setu9Ir1miY",
+        "features": ["Lorem ipsum dolor sit amet consectetur.", "Et facilisis nunc quam quam etiam donec pellentesque ut.", "Nisl pellentesque at aliquam scelerisque non consequat amet curabitur.", "Molestie pharetra morbi eu odio volutpat.", "Cursus velit elit senectus auctor vitae tristique velit.", "Feugiat consequat diam ipsum suspendisse vestibulum ipsum malesuada."],
+        "image": "https://cdn.prod.website-files.com/66cbf9eecd2d43a6644e1854/66f27b23782c6572c6eae153_66f2798135e3471739729357_Details.webp",
+        "summary": "Lorem ipsum dolor sit amet consectetur. Et facilisis nunc quam quam etiam donec pellentesque ut..."
+      },
+      {
+        "tabLabel": "Lesson 2",
+        "title": "Budgeting basics, creating and sticking to a budget",
+        "intro": "Lorem ipsum dolor sit amet consectetur...",
+        "videoUrl": "https://www.youtube.com/embed/PcFXt8o7uGg",
+        "features": ["Lorem ipsum dolor sit amet consectetur.", "Et facilisis nunc quam quam etiam donec pellentesque ut.", "Nisl pellentesque at aliquam scelerisque non consequat amet curabitur.", "Molestie pharetra morbi eu odio volutpat.", "Cursus velit elit senectus auctor vitae tristique velit.", "Feugiat consequat diam ipsum suspendisse vestibulum ipsum malesuada."],
+        "image": "https://cdn.prod.website-files.com/66cbf9eecd2d43a6644e1854/66f27b23782c6572c6eae153_66f2798135e3471739729357_Details.webp",
+        "summary": "Lorem ipsum dolor sit amet consectetur..."
+      },
+      {
+        "tabLabel": "Lesson 3",
+        "title": "Retirement planning and strategies for a secure future",
+        "intro": "Lorem ipsum dolor sit amet consectetur...",
+        "videoUrl": "https://www.youtube.com/embed/EFHoH15i4Zg",
+        "features": ["Lorem ipsum dolor sit amet consectetur.", "Et facilisis nunc quam quam etiam donec pellentesque ut.", "Nisl pellentesque at aliquam scelerisque non consequat amet curabitur.", "Molestie pharetra morbi eu odio volutpat.", "Cursus velit elit senectus auctor vitae tristique velit.", "Feugiat consequat diam ipsum suspendisse vestibulum ipsum malesuada."],
+        "image": "https://cdn.prod.website-files.com/66cbf9eecd2d43a6644e1854/66f27b23782c6572c6eae153_66f2798135e3471739729357_Details.webp",
+        "summary": "Lorem ipsum dolor sit amet consectetur..."
+      },
+      {
+        "tabLabel": "Lesson 4",
+        "title": "Risk management for protecting your financial assets",
+        "intro": "Lorem ipsum dolor sit amet consectetur...",
+        "videoUrl": "https://www.youtube.com/embed/De2unauLBks",
+        "features": ["Lorem ipsum dolor sit amet consectetur.", "Et facilisis nunc quam quam etiam donec pellentesque ut.", "Nisl pellentesque at aliquam scelerisque non consequat amet curabitur.", "Molestie pharetra morbi eu odio volutpat.", "Cursus velit elit senectus auctor vitae tristique velit.", "Feugiat consequat diam ipsum suspendisse vestibulum ipsum malesuada."],
+        "image": "https://cdn.prod.website-files.com/66cbf9eecd2d43a6644e1854/66f27b23782c6572c6eae153_66f2798135e3471739729357_Details.webp",
+        "summary": "Lorem ipsum dolor sit amet consectetur..."
+      },
+      {
+        "tabLabel": "Lesson 5",
+        "title": "Financial markets overview and how they work",
+        "intro": "Lorem ipsum dolor sit amet consectetur...",
+        "videoUrl": "https://www.youtube.com/embed/pLgPFfFdpDs",
+        "features": ["Lorem ipsum dolor sit amet consectetur.", "Et facilisis nunc quam quam etiam donec pellentesque ut.", "Nisl pellentesque at aliquam scelerisque non consequat amet curabitur.", "Molestie pharetra morbi eu odio volutpat.", "Cursus velit elit senectus auctor vitae tristique velit.", "Feugiat consequat diam ipsum suspendisse vestibulum ipsum malesuada."],
+        "image": "https://cdn.prod.website-files.com/66cbf9eecd2d43a6644e1854/66f27b23782c6572c6eae153_66f2798135e3471739729357_Details.webp",
+        "summary": "Lorem ipsum dolor sit amet consectetur..."
+      }
+    ],
+    "instructors": [
+      {
+        "name": "Jasmine Konopelski",
+        "role": "instructor",
+        "image": "https://cdn.prod.website-files.com/66cbf9eecd2d43a6644e1854/66e54d1d831de420da7dd70f_Team%20Member-6.webp",
+        "profileUrl": "/team-members/jasmine-konopelski"
+      },
+      {
+        "name": "Leslie Upton",
+        "role": "instructor",
+        "image": "https://cdn.prod.website-files.com/66cbf9eecd2d43a6644e1854/66e54e091763e997592e23aa_Team%20Member-2.webp",
+        "profileUrl": "/team-members/leslie-upton"
+      },
+      {
+        "name": "Tonya Flatley",
+        "role": "instructor",
+        "image": "https://cdn.prod.website-files.com/66cbf9eecd2d43a6644e1854/66e54cf958de957ca8c9be63_Team%20Member-7.webp",
+        "profileUrl": "/team-members/tonya-flatley"
+      },
+      {
+        "name": "Darnell Kuphal",
+        "role": "instructor",
+        "image": "https://cdn.prod.website-files.com/66cbf9eecd2d43a6644e1854/66e54dfe163cc2b616b99dd3_Team%20Member-3.webp",
+        "profileUrl": "/team-members/darnell-kuphal"
+      }
+    ],
+    "faqs": [
+      { "question": "What are some current trends in finance?", "answer": "Lorem ipsum dolor sit amet consectetur..." },
+      { "question": "How do I choose a financial advisor?", "answer": "Lorem ipsum dolor sit amet consectetur..." },
+      { "question": "What is risk management in finance?", "answer": "Lorem ipsum dolor sit amet consectetur..." },
+      { "question": "What tools can help with financial planning?", "answer": "Lorem ipsum dolor sit amet consectetur..." },
+      { "question": "What types of insurance should I consider?", "answer": "Lorem ipsum dolor sit amet consectetur..." }
+    ],
+    "related": [
+      {
+        "image": "https://app.theurbangaragebd.com/edumig/images/Woman-Image-Holding-Copy_1Woman-Image-Holding-Copy.webp",
+        "category": "Design",
+        "title": "Photoshop basics for beginners",
+        "ratingText": "4.8 (1.1k)",
+        "price": "Free",
+        "detailsUrl": "#"
+      },
+      {
+        "image": "https://app.theurbangaragebd.com/edumig/images/Woman-Image-Holding-Copy_1Woman-Image-Holding-Copy.webp",
+        "category": "Design",
+        "title": "Illustrator: logo system masterclass",
+        "ratingText": "4.7 (2.3k)",
+        "price": "$29",
+        "detailsUrl": "#",
+        "buyUrl": "#"
+      },
+      {
+        "image": "https://app.theurbangaragebd.com/edumig/images/Woman-Image-Holding-Copy_1Woman-Image-Holding-Copy.webp",
+        "category": "Design",
+        "title": "Figma for developers",
+        "ratingText": "4.6 (980)",
+        "price": "Free",
+        "detailsUrl": "#"
+      }
+    ],
+    "cta": {
+      "heading": "Are you ready to start your journey?",
+      "primary": { "label": "Browse courses", "url": "course-one.html" },
+      "secondary": { "label": "Became an instructor", "url": "career.html" }
+    }
+  }

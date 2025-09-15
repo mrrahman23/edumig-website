@@ -9,7 +9,7 @@ import { ActivatedRoute, RouterLink } from '@angular/router';
   standalone: true,
   imports: [CommonModule, HttpClientModule, CoursesListTwoComponent,RouterLink],
   templateUrl: './category-details.component.html',
-  styleUrl: './category-details.component.css'
+  styleUrl: './category-details.component.scss'
 })
 export class CategoryDetailsComponent implements OnInit, AfterViewInit {
   public courses: any[] = [];
@@ -55,7 +55,7 @@ export class CategoryDetailsComponent implements OnInit, AfterViewInit {
         return match; // ⬅️ important
       });
     }
-
+  
   }
 
   private slugify(v: string): string {

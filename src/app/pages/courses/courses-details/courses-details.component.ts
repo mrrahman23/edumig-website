@@ -13,6 +13,8 @@ import { RouterLink } from "@angular/router";
 })
 export class CoursesDetailsComponent implements OnInit, AfterViewInit {
   public courses: any[]= [];
+  public courses_detail: any[]= [];
+  public isLoading: boolean= true;
   constructor(private ngZone: NgZone, private http: HttpClient) {}
   ngOnInit(): void {
     this.http.get<any[]>('assets/data/courses.json').subscribe({
@@ -21,6 +23,15 @@ export class CoursesDetailsComponent implements OnInit, AfterViewInit {
       },
       error: (err) => {
         console.error('Failed to load courses:', err);
+      },
+    });
+    this.http.get<any[]>('assets/data/courses-details.json').subscribe({
+      next: (data) => {
+        this.courses_detail = data;
+        this.isLoading = false;
+      },
+      error: (err) => {
+        console.error('Failed to load courses_details:', err);
       },
     });
   }

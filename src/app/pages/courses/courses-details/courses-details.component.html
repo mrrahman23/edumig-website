@@ -1,314 +1,191 @@
-<section class="course-hero">
-    <div class="course-hero-overlay"></div>
-    <div class="course-hero-box">
-      <div class="w-layout-blockcontainer container w-container">
-        <div class="w-layout-vflex course-hero-content-box">
-          <div class="small-heading text-light-white w-dyn-bind-empty-nai">Hello</div>
-          <h1 data-w-id="748e0126-62a1-1a3c-e979-389c08525e60" style="opacity:0" class="heading-one-top-gap text-white margin-bottom-thirty-five w-dyn-bind-empty-nai">Advanced photoshop techniques for designers</h1>
-          <div class="w-layout-hflex course-hero-ratting"><img src="https://app.theurbangaragebd.com/edumig/images/Rating.svg" loading="lazy" alt="">
-            <div class="text-light-white w-dyn-bind-empty-nai">Janinatho</div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <section class="course-short-information">
+<section class="course-hero" *ngIf="!isLoading && courses_detail as d">
+  <div class="course-hero-overlay"></div>
+  <div class="course-hero-box">
     <div class="w-layout-blockcontainer container w-container">
-      <div class="course-short-information-main">
-        <div class="w-layout-hflex course-short-information-box"><img src="https://app.theurbangaragebd.com/edumig/images/Clock-Icons-2.svg" loading="lazy" width="30" height="31" alt="Icons" class="margin-top-five">
-          <div class="w-layout-vflex">
-            <div class="heading-six margin-bottom-five">Time span</div>
-            <div class="text-small text-dark w-dyn-bind-empty-nai"></div>
-          </div>
-        </div>
-        <div class="w-layout-hflex course-short-information-box"><img src="https://app.theurbangaragebd.com/edumig/images/Books-Icons_1.svg" loading="lazy" width="28" height="32" alt="Icons" class="margin-top-five">
-          <div class="w-layout-vflex">
-            <div class="heading-six margin-bottom-five">Lectures</div>
-            <div class="text-small text-dark w-dyn-bind-empty-nai"></div>
-          </div>
-        </div>
-        <div class="w-layout-hflex course-short-information-box"><img src="https://app.theurbangaragebd.com/edumig/images/Skills-Arrow.svg" loading="lazy" width="36" height="32" alt="Icons" class="margin-top-five">
-          <div class="w-layout-vflex">
-            <div class="heading-six margin-bottom-five">Skill level</div>
-            <div class="text-small text-dark w-dyn-bind-empty-nai"></div>
-          </div>
-        </div>
-        <div class="w-layout-hflex course-short-information-box"><img src="https://app.theurbangaragebd.com/edumig/images/Video-Icons.svg" loading="lazy" width="29" height="31" alt="Icons" class="margin-top-five">
-          <div class="w-layout-vflex">
-            <div class="heading-six margin-bottom-five">Video lessons</div>
-            <div class="text-small text-dark w-dyn-bind-empty-nai"></div>
-          </div>
-        </div>
-        <div class="w-layout-hflex course-short-information-box border-off"><img src="https://app.theurbangaragebd.com/edumig/images/Persons.svg" loading="lazy" width="30" height="30" alt="Icons" class="margin-top-five">
-          <div class="w-layout-vflex">
-            <div class="heading-six margin-bottom-five">Students</div>
-            <div class="text-small text-dark w-dyn-bind-empty-nai"></div>
-          </div>
+      <div class="w-layout-vflex course-hero-content-box">
+        <div class="small-heading text-light-white">{{ d.hero.category }}</div>
+        <h1 class="heading-one-top-gap text-white margin-bottom-thirty-five">{{ d.hero.title }}</h1>
+        <div class="w-layout-hflex course-hero-ratting">
+          <img src="https://app.theurbangaragebd.com/edumig/images/Rating.svg" loading="lazy" alt="" />
+          <div class="text-light-white">{{ d.hero.lessonsText }}</div>
         </div>
       </div>
     </div>
-  </section>
-  <section class="course-details">
-    <div class="w-layout-blockcontainer container w-container">
-      <div>
-        <div data-current="Tab 1" data-easing="ease" data-duration-in="300" data-duration-out="100" class="course-details-tab w-tabs">
-          <div class="course-details-tabs w-tab-menu">
-            <a data-w-tab="Tab 1" class="course-details-tabs-options w-inline-block w-tab-link w--current">
-              <div>Overview</div>
-            </a>
-            <a data-w-tab="Tab 2" class="course-details-tabs-options w-inline-block w-tab-link">
-              <div>Curriculum</div>
-            </a>
-            <a data-w-tab="Tab 3" class="course-details-tabs-options w-inline-block w-tab-link">
-              <div>Instructor</div>
-            </a>
-            <a data-w-tab="Tab 4" class="course-details-tabs-options w-inline-block w-tab-link">
-              <div>FAQs</div>
-            </a>
-            <a data-w-tab="Tab 5" class="course-details-tabs-options w-inline-block w-tab-link">
-              <div>query</div>
-            </a>
-          </div>
-          <div class="course-tab-content w-tab-content">
-            <div data-w-tab="Tab 1" class="w-tab-pane w--tab-active">
-              <div class="w-dyn-bind-empty-nai w-richtext"></div>
-            </div>
-            <div data-w-tab="Tab 2" class="w-tab-pane">
-              <div>
-                <div data-current="Tab 1" data-easing="ease" data-duration-in="300" data-duration-out="100" class="curriculum-tab w-tabs">
-                  <div class="curriculum-tabs-menu w-tab-menu">
-                    <a data-w-tab="Tab 1" class="course-details-tabs-options w-inline-block w-tab-link w--current">
-                      <div>Lesson 1</div>
-                    </a>
-                    <a data-w-tab="Tab 2" class="course-details-tabs-options w-inline-block w-tab-link">
-                      <div>Lesson 2</div>
-                    </a>
-                    <a data-w-tab="Tab 3" class="course-details-tabs-options w-inline-block w-tab-link">
-                      <div>Lesson 3</div>
-                    </a>
-                    <a data-w-tab="Tab 4" class="course-details-tabs-options w-inline-block w-tab-link">
-                      <div>Lesson 4</div>
-                    </a>
-                    <a data-w-tab="Tab 5" class="course-details-tabs-options w-inline-block w-tab-link">
-                      <div>Lesson 5</div>
-                    </a>
-                    <a data-w-tab="Tab 6" class="course-details-tabs-options w-inline-block w-tab-link">
-                      <div>Lesson 6</div>
-                    </a>
-                    <a data-w-tab="Tab 7" class="course-details-tabs-options w-inline-block w-tab-link">
-                      <div>Lesson 7</div>
-                    </a>
-                    <a data-w-tab="Tab 8" class="course-details-tabs-options w-inline-block w-tab-link">
-                      <div>Lesson 8</div>
-                    </a>
-                    <a data-w-tab="Tab 9" class="course-details-tabs-options w-inline-block w-tab-link">
-                      <div>Lesson 9</div>
-                    </a>
-                  </div>
-                  <div class="curriculum-tab-content w-tab-content">
-                    <div data-w-tab="Tab 1" class="w-tab-pane w--tab-active">
-                      <div>
-                        <div class="heading-three margin-bottom-thirty w-dyn-bind-empty-nai"></div>
-                        <div class="w-dyn-bind-empty-nai w-richtext"></div>
-                      </div>
-                    </div>
-                    <div data-w-tab="Tab 2" class="w-tab-pane">
-                      <div>
-                        <div class="heading-three margin-bottom-thirty w-dyn-bind-empty-nai"></div>
-                        <div class="w-dyn-bind-empty-nai w-richtext"></div>
-                      </div>
-                    </div>
-                    <div data-w-tab="Tab 3" class="w-tab-pane">
-                      <div>
-                        <div class="heading-three margin-bottom-thirty w-dyn-bind-empty-nai"></div>
-                        <div class="w-dyn-bind-empty-nai w-richtext"></div>
-                      </div>
-                    </div>
-                    <div data-w-tab="Tab 4" class="w-tab-pane">
-                      <div>
-                        <div class="heading-three margin-bottom-thirty w-dyn-bind-empty-nai"></div>
-                        <div class="w-dyn-bind-empty-nai w-richtext"></div>
-                      </div>
-                    </div>
-                    <div data-w-tab="Tab 5" class="w-tab-pane">
-                      <div>
-                        <div class="heading-three margin-bottom-thirty w-dyn-bind-empty-nai"></div>
-                        <div class="w-dyn-bind-empty-nai w-richtext"></div>
-                      </div>
-                    </div>
-                    <div data-w-tab="Tab 6" class="w-tab-pane">
-                      <div>
-                        <div class="heading-three margin-bottom-thirty w-dyn-bind-empty-nai"></div>
-                        <div class="w-dyn-bind-empty-nai w-richtext"></div>
-                      </div>
-                    </div>
-                    <div data-w-tab="Tab 7" class="w-tab-pane">
-                      <div>
-                        <div class="heading-three margin-bottom-thirty w-dyn-bind-empty-nai"></div>
-                        <div class="w-dyn-bind-empty-nai w-richtext"></div>
-                      </div>
-                    </div>
-                    <div data-w-tab="Tab 8" class="w-tab-pane">
-                      <div>
-                        <div class="heading-three margin-bottom-thirty w-dyn-bind-empty-nai"></div>
-                        <div class="w-dyn-bind-empty-nai w-richtext"></div>
-                      </div>
-                    </div>
-                    <div data-w-tab="Tab 9" class="w-tab-pane">
-                      <div>
-                        <div class="heading-three margin-bottom-thirty w-dyn-bind-empty-nai"></div>
-                        <div class="w-dyn-bind-empty-nai w-richtext"></div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div data-w-tab="Tab 3" class="w-tab-pane">
-              <div>
-                <div class="heading-three margin-bottom-twenty">Course instructor</div>
-                <p class="margin-bottom-thirty">Lorem ipsum dolor sit amet consectetur. Et facilisis nunc quam quam etiam donec pellentesque ut. Nisl pellentesque at aliquam scelerisque non consequat amet curabitur. Imperdiet habitant purus pulvinar diam. Molestie pharetra morbi eu odio volutpat. Cursus velit elit senectus auctor vitae tristique velit. Feugiat consequat diam ipsum suspendisse vestibulum ipsum malesuada.</p>
-                <div class="w-dyn-list">
-                  <div role="list" class="team-wrapper course-team w-dyn-items">
-                    <div role="listitem" class="w-dyn-item">
-                      <a href="#" class="team-card w-inline-block">
-                        <div class="team-card-image"><img loading="lazy" src="https://d3e54v103j8qbb.cloudfront.net/plugins/Basic/assets/placeholder.60f9b1840c.svg" alt="Instructors" class="team-member-image w-dyn-bind-empty-nai"></div>
-                        <div class="w-layout-vflex team-member-names">
-                          <div class="heading-five w-dyn-bind-empty-nai"></div>
-                          <div class="small-shot-heading small-heading-body-color w-dyn-bind-empty-nai"></div>
-                        </div>
-                      </a>
-                    </div>
-                  </div>
-                  <div class="w-dyn-empty">
-                    <div>No items found.</div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div data-w-tab="Tab 4" class="w-tab-pane">
-              <div>
-                <div class="heading-three margin-bottom-twenty">Frequently asked questions</div>
-                <p class="course-details-faq-gap">Lorem ipsum dolor sit amet consectetur. Et facilisis nunc quam quam etiam donec pellentesque ut. Nisl pellentesque at aliquam scelerisque non consequat amet curabitur. Imperdiet habitant purus pulvinar diam. Molestie pharetra morbi eu odio volutpat. Cursus velit elit senectus auctor vitae tristique velit. Feugiat consequat diam ipsum suspendisse vestibulum ipsum malesuada.</p>
-                <div class="faq-s">
-                  <div data-delay="400" data-hover="false" data-w-id="99e00cee-e834-3fb5-677e-7eb92001c4f5" class="faq-two-dropdown w-dropdown">
-                    <div class="faq-two w-dropdown-toggle">
-                      <div class="heading-five w-dyn-bind-empty-nai"></div>
-                      <div class="faq-two-icon">
-                        <div class="plus-bar plus-one"></div>
-                        <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0)" class="plus-bar plus-two"></div>
-                      </div>
-                    </div>
-                    <nav style="width:100%;height:0px" class="faq-two-list w-dropdown-list">
-                      <div class="faq-two-answers">
-                        <p class="w-dyn-bind-empty-nai"></p>
-                      </div>
-                    </nav>
-                  </div>
-                  <div data-delay="400" data-hover="false" data-w-id="99e00cee-e834-3fb5-677e-7eb92001c500" class="faq-two-dropdown w-dropdown">
-                    <div class="faq-two w-dropdown-toggle">
-                      <div class="heading-five w-dyn-bind-empty-nai"></div>
-                      <div class="faq-two-icon">
-                        <div class="plus-bar plus-one"></div>
-                        <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0)" class="plus-bar plus-two"></div>
-                      </div>
-                    </div>
-                    <nav style="width:100%;height:0px" class="faq-two-list w-dropdown-list">
-                      <div class="faq-two-answers">
-                        <p class="w-dyn-bind-empty-nai"></p>
-                      </div>
-                    </nav>
-                  </div>
-                  <div data-delay="400" data-hover="false" data-w-id="99e00cee-e834-3fb5-677e-7eb92001c50b" class="faq-two-dropdown w-dropdown">
-                    <div class="faq-two w-dropdown-toggle">
-                      <div class="heading-five w-dyn-bind-empty-nai"></div>
-                      <div class="faq-two-icon">
-                        <div class="plus-bar plus-one"></div>
-                        <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0)" class="plus-bar plus-two"></div>
-                      </div>
-                    </div>
-                    <nav style="width:100%;height:0px" class="faq-two-list w-dropdown-list">
-                      <div class="faq-two-answers">
-                        <p class="w-dyn-bind-empty-nai"></p>
-                      </div>
-                    </nav>
-                  </div>
-                  <div data-delay="400" data-hover="false" data-w-id="99e00cee-e834-3fb5-677e-7eb92001c516" class="faq-two-dropdown w-dropdown">
-                    <div class="faq-two w-dropdown-toggle">
-                      <div class="heading-five w-dyn-bind-empty-nai"></div>
-                      <div class="faq-two-icon">
-                        <div class="plus-bar plus-one"></div>
-                        <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0)" class="plus-bar plus-two"></div>
-                      </div>
-                    </div>
-                    <nav style="width:100%;height:0px" class="faq-two-list w-dropdown-list">
-                      <div class="faq-two-answers">
-                        <p class="w-dyn-bind-empty-nai"></p>
-                      </div>
-                    </nav>
-                  </div>
-                  <div data-delay="400" data-hover="false" data-w-id="99e00cee-e834-3fb5-677e-7eb92001c521" class="faq-two-dropdown w-dropdown">
-                    <div class="faq-two w-dropdown-toggle">
-                      <div class="heading-five w-dyn-bind-empty-nai"></div>
-                      <div class="faq-two-icon">
-                        <div class="plus-bar plus-one"></div>
-                        <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(90deg) skew(0, 0)" class="plus-bar plus-two"></div>
-                      </div>
-                    </div>
-                    <nav style="width:100%;height:0px" class="faq-two-list w-dropdown-list">
-                      <div class="faq-two-answers">
-                        <p class="w-dyn-bind-empty-nai"></p>
-                      </div>
-                    </nav>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div data-w-tab="Tab 5" class="w-tab-pane">
-              <div class="w-layout-vflex course-details-form">
-                <div class="w-layout-vflex course-details-form-text">
-                  <div class="heading-three margin-bottom-twenty">Have any questions about this course?</div>
-                  <p>Lorem ipsum dolor sit amet consectetur. Et facilisis nunc quam quam etiam donec pellentesque ut. Nisl pellentesque at aliquam scelerisque non consequat amet curabitur.</p>
-                </div>
-                <div class="course-form">
-                  <div class="no-margin-bottom w-form">
-                    <form id="wf-form-Course-Query-Form" name="wf-form-Course-Query-Form" data-name="Course Query Form" method="get" data-wf-page-id="687d117f14760f1928abf3ac" data-wf-element-id="7f45fa07-625f-a05b-8e40-f130fecf8329">
-                      <div class="w-layout-hflex course-form-top"><input class="text-field no-margin-bottom w-input" maxlength="256" name="First-name" data-name="First name" placeholder="First name*" type="text" id="First-name" required=""><input class="text-field no-margin-bottom w-input" maxlength="256" name="Last-name" data-name="Last name" placeholder="Last name*" type="text" id="Last-name" required=""></div>
-                      <div class="course-form-top"><input class="text-field no-margin-bottom w-input" maxlength="256" name="Your-email" data-name="Your email" placeholder="Your email*" type="email" id="Your-email" required=""><input class="text-field no-margin-bottom w-input" maxlength="256" name="Course-category" data-name="Course category" placeholder="Course category*" type="text" id="Course-category" required=""></div><textarea id="Your-query" name="Your-query" maxlength="5000" data-name="Your query" placeholder="Your query*" class="textarea textarea-gap-thirty w-input"></textarea><label class="w-checkbox checkbox-field margin-bottom-thirty-five">
-                        <div class="w-checkbox-input w-checkbox-input--inputType-custom checkbox"></div><input type="checkbox" name="checkbox" id="checkbox" data-name="Checkbox" style="opacity:0;position:absolute;z-index:-1"><span class="checkbox-label w-form-label" for="checkbox">Save information for next time.</span>
-                      </label>
-                      <div><input type="submit" data-wait="Please wait..." class="button w-button" value="Send your query"></div>
-                    </form>
-                    <div class="w-form-done">
-                      <div>Thank you! Your submission has been received!</div>
-                    </div>
-                    <div class="w-form-fail">
-                      <div>Oops! Something went wrong while submitting the form.</div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+  </div>
+</section>
+<section class="course-short-information" *ngIf="courses_detail as d">
+  <div class="w-layout-blockcontainer container w-container">
+    <div class="course-short-information-main">
+      <div class="w-layout-hflex course-short-information-box" *ngFor="let s of d.stats; let last = last">
+        <img [src]="s.icon" loading="lazy" width="30" height="31" alt="Icons" class="margin-top-five" />
+        <div class="w-layout-vflex">
+          <div class="heading-six margin-bottom-five">{{ s.label }}</div>
+          <div class="text-small text-dark">{{ s.value }}</div>
         </div>
       </div>
     </div>
-  </section>
+  </div>
+</section>
+<section class="course-details" *ngIf="courses_detail as d">
+  <div class="w-layout-blockcontainer container w-container">
+    <div>
+      <div class="course-details-tab w-tabs">
+        <!-- Tabs menu -->
+        <div class="course-details-tabs w-tab-menu" role="tablist">
+          <a data-w-tab="Tab 1" role="tab" class="course-details-tabs-options w-inline-block w-tab-link w--current" href="#overview" aria-controls="overview" aria-selected="true"><div>Overview</div></a>
+          <a data-w-tab="Tab 2" role="tab" class="course-details-tabs-options w-inline-block w-tab-link" href="#curriculum"><div>Curriculum</div></a>
+          <a data-w-tab="Tab 3" role="tab" class="course-details-tabs-options w-inline-block w-tab-link" href="#instructor"><div>Instructor</div></a>
+          <a data-w-tab="Tab 4" role="tab" class="course-details-tabs-options w-inline-block w-tab-link" href="#faq"><div>FAQ</div></a>
+          <a data-w-tab="Tab 5" role="tab" class="course-details-tabs-options w-inline-block w-tab-link" href="#query"><div>query</div></a>
+        </div>
+
+        <div class="course-tab-content w-tab-content">
+          <!-- Overview -->
+          <div data-w-tab="Tab 1" id="overview" aria-labelledby="overview" class="w-tab-pane w--tab-active" role="tabpanel">
+            <div class="w-richtext">
+              <h3>Course description</h3>
+              <p>{{ d.overview.description }}</p>
+              <h4>Main features</h4>
+              <ul>
+                <li *ngFor="let f of d.overview.features">{{ f }}</li>
+              </ul>
+              <h4>{{ d.overview.audienceTitle }}</h4>
+              <p>{{ d.overview.audienceText }}</p>
+            </div>
+          </div>
+
+          <!-- Curriculum -->
+          <div data-w-tab="Tab 2" id="curriculum" aria-labelledby="curriculum" class="w-tab-pane" role="tabpanel">
+            <div class="curriculum-tab w-tabs">
+              <div class="curriculum-tabs-menu w-tab-menu" role="tablist">
+                <a *ngFor="let l of d.curriculum; let i = index" data-w-tab="Tab {{i+1}}" class="course-details-tabs-options w-inline-block w-tab-link{{i==0?' w--current':''}}" href="#lesson-{{i}}" role="tab" aria-controls="#lesson-{{i}}" aria-selected="{{i==0?true:false}}">
+                  <div>{{ l.tabLabel }}</div>
+                </a>
+              </div>
+              <div class="curriculum-tab-content w-tab-content">
+
+                <!-- <div data-w-tab="Tab 1" class="w-tab-pane w--tab-active" id="w-tabs-1-data-w-pane-0" role="tabpanel"
+                aria-labelledby="w-tabs-1-data-w-tab-0"> -->
+
+                <div *ngFor="let l of d.curriculum; let i = index" class="w-tab-pane {{ (i==0?'w--tab-active':'')}}" aria-labelledby="lesson-{{i+1}}" id="lesson-{{i}}" role="tabpanel" data-w-tab="Tab {{i+1}}">
+                  <div class="heading-three margin-bottom-thirty">{{ l.title }}</div>
+                  <div class="w-richtext">
+                    <h5>Introduction</h5>
+                    <p>{{ l.intro }}</p>
+                    <figure *ngIf="l.videoUrl" style="padding-bottom:56.25%" class="w-richtext-align-fullwidth w-richtext-figure-type-video">
+                      <div>
+                        <iframe allowfullscreen="true" [src]="l.videoUrl | safeUrl" scrolling="no" frameborder="0"></iframe>
+                      </div>
+                    </figure>
+                    <h5>Main features</h5>
+                    <ul>
+                      <li *ngFor="let ff of l.features">{{ ff }}</li>
+                    </ul>
+                    <figure *ngIf="l.image" style="max-width:1920px" class="w-richtext-align-fullwidth w-richtext-figure-type-image">
+                      <div><img [src]="l.image" alt="" loading="lazy" /></div>
+                    </figure>
+                    <p>{{ l.summary }}</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Instructor -->
+          <div data-w-tab="Tab 3" id="instructor" aria-labelledby="instructor" class="w-tab-pane" role="tabpanel">
+            <div>
+              <div class="heading-three margin-bottom-twenty">Course instructor</div>
+              <p class="margin-bottom-thirty">
+                <!-- Optional intro text could be added to JSON later -->
+              </p>
+              <div class="w-dyn-list">
+                <div role="list" class="team-wrapper course-team w-dyn-items">
+                  <div role="listitem" class="w-dyn-item" *ngFor="let t of d.instructors">
+                    <a [href]="t.profileUrl" class="team-card w-inline-block">
+                      <div class="team-card-image"><img loading="lazy" [src]="t.image" alt="Instructors" class="team-member-image" /></div>
+                      <div class="w-layout-vflex team-member-names">
+                        <div class="heading-five">{{ t.name }}</div>
+                        <div class="small-shot-heading small-heading-body-color">{{ t.role }}</div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- FAQ -->
+          <div data-w-tab="Tab 4" id="faq" aria-labelledby="faq" class="w-tab-pane" role="tabpanel">
+            <div>
+              <div class="heading-three margin-bottom-twenty">Frequently asked questions</div>
+              <div class="faq-s">
+                <div class="faq-two-dropdown w-dropdown" *ngFor="let q of d.faqs; let qi = index">
+                  <div class="faq-two w-dropdown-toggle" role="button">
+                    <div class="heading-five">{{ q.question }}</div>
+                    <div class="faq-two-icon">
+                      <div class="plus-bar plus-one"></div>
+                      <div class="plus-bar plus-two"></div>
+                    </div>
+                  </div>
+                  <nav class="faq-two-list w-dropdown-list">
+                    <div class="faq-two-answers"><p>{{ q.answer }}</p></div>
+                  </nav>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Query form (kept as-is for now) -->
+          <div data-w-tab="Tab 5" id="query" aria-labelledby="query" class="w-tab-pane" role="tabpanel">
+            <div class="w-layout-vflex course-details-form">
+              <div class="w-layout-vflex course-details-form-text">
+                <div class="heading-three margin-bottom-twenty">Have any questions about this course?</div>
+                <p>Fill the form and we'll get back to you.</p>
+              </div>
+              <div class="course-form">
+                <div class="no-margin-bottom w-form">
+                  <form id="wf-form-Course-Query-Form" name="wf-form-Course-Query-Form" method="get" aria-label="Course Query Form">
+                    <div class="w-layout-hflex course-form-top">
+                      <input class="text-field no-margin-bottom w-input" maxlength="256" name="First-name" placeholder="First name*" type="text" id="First-name" required />
+                      <input class="text-field no-margin-bottom w-input" maxlength="256" name="Last-name" placeholder="Last name*" type="text" id="Last-name" required />
+                    </div>
+                    <div class="course-form-top">
+                      <input class="text-field no-margin-bottom w-input" maxlength="256" name="Your-email" placeholder="Your email*" type="email" id="Your-email" required />
+                      <input class="text-field no-margin-bottom w-input" maxlength="256" name="Course-category" placeholder="Course category*" type="text" id="Course-category" required />
+                    </div>
+                    <textarea id="Your-query" name="Your-query" maxlength="5000" placeholder="Your query*" class="textarea textarea-gap-thirty w-input"></textarea>
+                    <label class="w-checkbox checkbox-field margin-bottom-thirty-five">
+                      <div class="w-checkbox-input w-checkbox-input--inputType-custom checkbox"></div>
+                      <input type="checkbox" name="checkbox" id="checkbox" style="opacity:0;position:absolute;z-index:-1" />
+                      <span class="checkbox-label w-form-label" for="checkbox">Save information for next time.</span>
+                    </label>
+                    <div><input type="submit" data-wait="Please wait..." class="button w-button" value="Send your query" /></div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
   <section class="course-details-more">
     <div class="w-layout-blockcontainer container w-container">
       <div data-w-id="a5ff96f1-0b24-9a8e-5c74-a45508423d0b" class="small-heading text-dark">Online learning</div>
-      <h2 data-w-id="48d1219f-9cd5-0518-3a63-2ab6935264ef" class="heading-two-gap-top course-one-store-heading">Related courses</h2>
+      <h2 data-w-id="ee1bda44-9a95-1d1c-1e63-b5222b7206d6" class="heading-two-gap-top course-one-store-heading">Related courses</h2>
       <div class="course-wrap-card">
-        <div data-w-id="48d1219f-9cd5-0518-3a63-2ab6935264f2" class="w-dyn-list">
+        <div data-w-id="ee1bda44-9a95-1d1c-1e63-b5222b7206d9" class="w-dyn-list">
           <div role="list" class="w-dyn-items">
             <div role="listitem" class="w-dyn-item">
-              <div data-w-id="48d1219f-9cd5-0518-3a63-2ab6935264f5" class="course-wrap-main"><img src="https://app.theurbangaragebd.com/edumig/images/Woman-Image-Holding-Copy_1Woman-Image-Holding-Copy.webp" loading="lazy" width="410" height="510" alt="" class="course-three-image w-dyn-bind-empty-nai">
+              <div data-w-id="ee1bda44-9a95-1d1c-1e63-b5222b7206dc" class="course-wrap-main"><img src="https://app.theurbangaragebd.com/edumig/images/Woman-Image-Holding-Copy_1Woman-Image-Holding-Copy.webp" loading="lazy" width="410" height="510" alt="" class="course-three-image we-dyn-bind-empty-nai">
                 <div class="course-card-three-overlay"></div>
                 <div class="course-card-three-content">
-                  <div class="small-shot-heading text-light-white w-dyn-bind-empty-nai"></div>
-                  <div class="heading-four text-white course-name-three-gap w-dyn-bind-empty-nai"></div>
+                  <div class="small-shot-heading text-light-white we-dyn-bind-empty-nai"></div>
+                  <div class="heading-four text-white course-name-three-gap we-dyn-bind-empty-nai"></div>
                   <div class="w-layout-hflex course-three-rating"><img src="https://app.theurbangaragebd.com/edumig/images/Rating.svg" loading="lazy" alt="">
-                    <div class="small-shot-heading small-heading-body-color w-dyn-bind-empty-nai"></div>
+                    <div class="small-shot-heading small-heading-body-color we-dyn-bind-empty-nai"></div>
                   </div>
                   <div data-w-id="48d1219f-9cd5-0518-3a63-2ab6935264fe" class="course-three-buttons">
                     <div class="w-layout-hflex course-three-button-wrap">
@@ -332,16 +209,16 @@
             <div>No items found.</div>
           </div>
         </div>
-        <div data-w-id="48d1219f-9cd5-0518-3a63-2ab69352650d" class="w-dyn-list">
+        <div data-w-id="ee1bda44-9a95-1d1c-1e63-b5222b7206f4" class="w-dyn-list">
           <div role="list" class="w-dyn-items">
             <div role="listitem" class="w-dyn-item">
-              <div data-w-id="48d1219f-9cd5-0518-3a63-2ab693526510" class="course-wrap-main"><img src="https://app.theurbangaragebd.com/edumig/images/Woman-Image-Holding-Copy_1Woman-Image-Holding-Copy.webp" loading="lazy" width="410" height="510" alt="" class="course-three-image w-dyn-bind-empty-nai">
+              <div data-w-id="48d1219f-9cd5-0518-3a63-2ab693526510" class="course-wrap-main"><img src="https://app.theurbangaragebd.com/edumig/images/Woman-Image-Holding-Copy_1Woman-Image-Holding-Copy.webp" loading="lazy" width="410" height="510" alt="" class="course-three-image we-dyn-bind-empty-nai">
                 <div class="course-card-three-overlay"></div>
                 <div class="course-card-three-content">
-                  <div class="small-shot-heading text-light-white w-dyn-bind-empty-nai"></div>
-                  <div class="heading-four text-white course-name-three-gap w-dyn-bind-empty-nai"></div>
+                  <div class="small-shot-heading text-light-white we-dyn-bind-empty-nai"></div>
+                  <div class="heading-four text-white course-name-three-gap we-dyn-bind-empty-nai"></div>
                   <div class="w-layout-hflex course-three-rating"><img src="https://app.theurbangaragebd.com/edumig/images/Rating.svg" loading="lazy" alt="">
-                    <div class="small-shot-heading small-heading-body-color w-dyn-bind-empty-nai"></div>
+                    <div class="small-shot-heading small-heading-body-color we-dyn-bind-empty-nai"></div>
                   </div>
                   <div data-w-id="48d1219f-9cd5-0518-3a63-2ab693526519" class="course-three-buttons">
                     <div class="w-layout-hflex course-three-button-wrap">
@@ -358,7 +235,7 @@
                   <div data-w-id="48d1219f-9cd5-0518-3a63-2ab693526523" class="course-three-cards-border-three"></div>
                   <div data-w-id="48d1219f-9cd5-0518-3a63-2ab693526524" class="course-three-cards-border-four"></div>
                   <div data-w-id="48d1219f-9cd5-0518-3a63-2ab693526525" class="course-price-wrapper course-three-price">
-                    <div class="w-dyn-bind-empty-nai"></div>
+                    <div class="we-dyn-bind-empty-nai"></div>
                   </div>
                 </div>
               </div>
@@ -368,16 +245,16 @@
             <div>No items found.</div>
           </div>
         </div>
-        <div data-w-id="48d1219f-9cd5-0518-3a63-2ab69352652a" class="w-dyn-list">
+        <div data-w-id="ee1bda44-9a95-1d1c-1e63-b5222b720711" class="w-dyn-list">
           <div role="list" class="w-dyn-items">
             <div role="listitem" class="w-dyn-item">
-              <div data-w-id="48d1219f-9cd5-0518-3a63-2ab69352652d" class="course-wrap-main"><img src="https://app.theurbangaragebd.com/edumig/images/Woman-Image-Holding-Copy_1Woman-Image-Holding-Copy.webp" loading="lazy" width="410" height="510" alt="" class="course-three-image w-dyn-bind-empty-nai">
+              <div data-w-id="48d1219f-9cd5-0518-3a63-2ab69352652d" class="course-wrap-main"><img src="https://app.theurbangaragebd.com/edumig/images/Woman-Image-Holding-Copy_1Woman-Image-Holding-Copy.webp" loading="lazy" width="410" height="510" alt="" class="course-three-image we-dyn-bind-empty-nai">
                 <div class="course-card-three-overlay"></div>
                 <div class="course-card-three-content">
-                  <div class="small-shot-heading text-light-white w-dyn-bind-empty-nai"></div>
-                  <div class="heading-four text-white course-name-three-gap w-dyn-bind-empty-nai"></div>
+                  <div class="small-shot-heading text-light-white we-dyn-bind-empty-nai"></div>
+                  <div class="heading-four text-white course-name-three-gap we-dyn-bind-empty-nai"></div>
                   <div class="w-layout-hflex course-three-rating"><img src="https://app.theurbangaragebd.com/edumig/images/Rating.svg" loading="lazy" alt="">
-                    <div class="small-shot-heading small-heading-body-color w-dyn-bind-empty-nai"></div>
+                    <div class="small-shot-heading small-heading-body-color we-dyn-bind-empty-nai"></div>
                   </div>
                   <div data-w-id="48d1219f-9cd5-0518-3a63-2ab693526536" class="course-three-buttons">
                     <div class="w-layout-hflex course-three-button-wrap">
@@ -413,7 +290,7 @@
             <div>Browse courses</div>
           </a>
           <a data-w-id="d2419891-9f36-e25c-7c72-b1716c5d291d" href="career.html" class="button button-yellow w-inline-block">
-            <div>Became an  instructor</div>
+            <div>Became an instructor</div>
           </a>
         </div>
       </div>
