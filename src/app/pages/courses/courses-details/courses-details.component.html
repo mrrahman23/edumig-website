@@ -63,10 +63,6 @@
                 </a>
               </div>
               <div class="curriculum-tab-content w-tab-content">
-
-                <!-- <div data-w-tab="Tab 1" class="w-tab-pane w--tab-active" id="w-tabs-1-data-w-pane-0" role="tabpanel"
-                aria-labelledby="w-tabs-1-data-w-tab-0"> -->
-
                 <div *ngFor="let l of d.curriculum; let i = index" class="w-tab-pane {{ (i==0?'w--tab-active':'')}}" aria-labelledby="lesson-{{i+1}}" id="lesson-{{i}}" role="tabpanel" data-w-tab="Tab {{i+1}}">
                   <div class="heading-three margin-bottom-thirty">{{ l.title }}</div>
                   <div class="w-richtext">

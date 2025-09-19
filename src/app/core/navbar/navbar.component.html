@@ -19,7 +19,7 @@
               </div>
               <div data-hover="true" data-delay="0" data-w-id="17d46984-7cba-edd4-a6dd-52a6d0365d25" class="dropdown w-dropdown">
                 <div class="dropdown-toggle w-dropdown-toggle">
-                  <div routerLink="/about-us">Why Us</div>
+                  <div routerLink="/about-us">About Us</div>
                 </div>
               </div>
               <!-- <div data-hover="true" data-delay="0" data-w-id="17d46984-7cba-edd4-a6dd-52a6d0365d41" class="dropdown w-dropdown">
@@ -41,13 +41,16 @@
             <div class="w-layout-hflex navbar-right">
               
               <div class="w-layout-hflex log-in-wrapper">
-                <button class="user-log-in-log-out" type="button"
+                <a data-w-id="554bdb09-166f-7496-ccbc-6402fc45feda" routerLink="/courses" class="button button-border-off w-inline-block">
+                  <div>ENROLL NOW</div>
+                </a>
+                <!-- <button class="user-log-in-log-out" type="button"
                         *ngIf="auth.isAuthed(); else mLoginBtn"
                         (click)="onLogout()">Logout</button>
                 
             
                 <div class="menu-border" *ngIf="!auth.isAuthed()"></div>
-                <a *ngIf="!auth.isAuthed()" routerLink="/sign-up" class="menu-font text-white" (click)="closeMobile()">Register</a>
+                <a *ngIf="!auth.isAuthed()" routerLink="/sign-up" class="menu-font text-white" (click)="closeMobile()">Register</a> -->
               </div>              
             </div>
             <div class="menu-button w-nav-button" (click)="toggleMobile()">
@@ -69,7 +72,7 @@
              </div>
              <div class="w-layout-hflex top-nav-right">
                <a href="mailto:elp@edumig.com " class="top-nav-text">{{"elp@edumig.com"}}</a>
-               <div class="top-nav-text">Call: <a href="tel:8881234567" class="top-nav-text">+88 01409965850</a>
+               <div class="top-nav-text">Call: <a href="tel:+8801409965850" class="top-nav-text">+88 01409965850</a>
                </div>
              </div>
            </div>
@@ -114,11 +117,11 @@
               </nav>
             </div> -->
             <div data-hover="false" data-delay="0" class="dropdown-link w-dropdown-link">
-              <div class="dropdown-toggle w-dropdown-toggle">
+              <!-- <div class="dropdown-toggle w-dropdown-toggle">
                 <div routerLink="/courses" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Courses
                 </div>
-                <!-- <div class="icon w-icon-dropdown-toggle"></div> -->
-              </div>
+                <div class="icon w-icon-dropdown-toggle"></div>
+              </div> -->
               <!-- <nav class="dropdown-list w-dropdown-list">
                 <a routerLink="/contact-us" class="dropdown-link w-dropdown-link">Contact One</a>
                 <a href="contact-two.html" class="dropdown-link w-dropdown-link">Contact Two</a>
@@ -128,11 +131,14 @@
           </div>
           <div class="w-layout-hflex navbar-right">
             <div class="w-layout-hflex log-in-wrapper">
-                <button class="user-log-in-log-out" type="button"
+              <a data-w-id="554bdb09-166f-7496-ccbc-6402fc45feda" routerLink="/courses" class="button button-border-off w-inline-block">
+                <div>ENROLL NOW</div>
+              </a>
+                <!-- <button class="user-log-in-log-out" type="button"
                         *ngIf="auth.isAuthed(); else loginBtn"
                         (click)="onLogout()">Logout</button>
                 <div class="menu-border" *ngIf="!auth.isAuthed()"></div>
-                <a *ngIf="!auth.isAuthed()" routerLink="/sign-up" class="menu-font text-white" (click)="closeMobile()">Register</a>
+                <a *ngIf="!auth.isAuthed()" routerLink="/sign-up" class="menu-font text-white" (click)="closeMobile()">Register</a> -->
               </div>             
           </div>
         </div>
