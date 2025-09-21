@@ -63,7 +63,7 @@
                 </a>
               </div>
               <div class="curriculum-tab-content w-tab-content">
-                <div *ngFor="let l of d.curriculum; let i = index" class="w-tab-pane {{ (i==0?'w--tab-active':'')}}" aria-labelledby="lesson-{{i+1}}" id="lesson-{{i}}" role="tabpanel" data-w-tab="Tab {{i+1}}">
+                <div *ngFor="let l of d.curriculum; let i = index" class="w-tab-pane {{ (i==0?'w--tab-active':'w--tab-active')}}" aria-labelledby="lesson-{{i+1}}" id="lesson-{{i}}" role="tabpanel" data-w-tab="Tab {{i+1}}">
                   <div class="heading-three margin-bottom-thirty">{{ l.title }}</div>
                   <div class="w-richtext">
                     <h5>Introduction</h5>
@@ -167,7 +167,7 @@
     </div>
   </div>
 </section>
-  <section class="course-details-more">
+  <section class="course-details-more" style="display: none;">
     <div class="w-layout-blockcontainer container w-container">
       <div data-w-id="a5ff96f1-0b24-9a8e-5c74-a45508423d0b" class="small-heading text-dark">Online learning</div>
       <h2 data-w-id="ee1bda44-9a95-1d1c-1e63-b5222b7206d6" class="heading-two-gap-top course-one-store-heading">Related courses</h2>

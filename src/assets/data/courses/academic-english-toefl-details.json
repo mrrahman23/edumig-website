@@ -1,0 +1,406 @@
+{
+  "hero": {
+    "category": "English (HSC Prep)",
+    "title": "SSC → HSC Spoken English Foundation (2026)",
+    "lessonsText": "30 Classes · 2.5 Months"
+  },
+  "stats": [
+    { "icon": "https://app.theurbangaragebd.com/edumig/images/Clock-Icons-2.svg", "label": "Time span", "value": "2.5 months" },
+    { "icon": "https://app.theurbangaragebd.com/edumig/images/Books-Icons_1.svg", "label": "Lectures", "value": "30 classes (90 min)" },
+    { "icon": "https://app.theurbangaragebd.com/edumig/images/Skills-Arrow.svg", "label": "Skill level", "value": "SSC → HSC bridge" },
+    { "icon": "https://app.theurbangaragebd.com/edumig/images/Video-Icons.svg", "label": "Practice", "value": "Speaking, Reading, Writing" },
+    { "icon": "https://app.theurbangaragebd.com/edumig/images/Persons.svg", "label": "Focus", "value": "College readiness" }
+  ],
+  "overview": {
+    "description": "Orientation Goal: Convert interest → admission by showing instant benefit for college life. Starting now builds a stronger English foundation during the first year of college (when English weakens most students). The course blends SPEAKING, READING, GRAMMAR, WRITING, VOCABULARY, and PRONUNCIATION with college-focused tasks.",
+    "features": [
+      "Tense mastery and error correction for board/college grammar.",
+      "Sentence transformation (affirmative/interrogative, positive/negative, degree change).",
+      "Voice (active/passive) and narration (direct → indirect).",
+      "Academic writing: paragraph, short essay, email/letter, summarizing texts.",
+      "Speaking labs: introductions, presentations, debates, group discussions.",
+      "Viva and presentation skills (PowerPoint + speaking).",
+      "Vocabulary growth: word banks, collocations, idioms & phrases.",
+      "Pronunciation and confidence building with live feedback."
+    ],
+    "audienceTitle": "Who is this for?",
+    "audienceText": "SSC grads entering HSC who want stronger English for college classes, viva, assignments, and future professional communication."
+  },
+  "curriculum": [
+    {
+      "tabLabel": "Lesson 1",
+      "title": "Orientation + 30-Second Intro (Baseline Speaking)",
+      "intro": "Set expectations, do quick confidence demo, capture baseline speaking sample.",
+      "features": [
+        "Activity: Introduce yourself in 30 seconds.",
+        "Instant correction: grammar + pronunciation.",
+        "Parents see live improvement."
+      ],
+      "summary": "We establish goals and demonstrate the course’s impact from day one."
+    },
+    {
+      "tabLabel": "Lesson 2",
+      "title": "Tense Mastery I — Present Simple/Continuous",
+      "intro": "Usage in daily speech and college contexts.",
+      "features": [
+        "Identify habits vs. actions now.",
+        "Error correction drills.",
+        "Mini speaking prompts."
+      ],
+      "summary": "Accurate present forms for clearer speaking and writing."
+    },
+    {
+      "tabLabel": "Lesson 3",
+      "title": "Tense Mastery II — Past Simple/Continuous",
+      "intro": "Narrating past events and reports.",
+      "features": [
+        "Storytelling frames.",
+        "Signal words and sequencing.",
+        "Short note writing."
+      ],
+      "summary": "Tell coherent past stories and write short reports."
+    },
+    {
+      "tabLabel": "Lesson 4",
+      "title": "Future Forms — will / going to",
+      "intro": "Plans, predictions, promises for college life.",
+      "features": [
+        "Usage contrast (decision vs. plan).",
+        "Speaking role play: semester planning.",
+        "Writing: short plan paragraph."
+      ],
+      "summary": "Use future forms naturally in speech and writing."
+    },
+    {
+      "tabLabel": "Lesson 5",
+      "title": "Subject-Verb Agreement + Articles",
+      "intro": "High-frequency errors fixed early.",
+      "features": [
+        "SVA pattern recognition.",
+        "Article rules (a/an/the) with examples.",
+        "Error correction game."
+      ],
+      "summary": "Cleaner sentences for exams and assignments."
+    },
+    {
+      "tabLabel": "Lesson 6",
+      "title": "Sentence Transformation I",
+      "intro": "Affirmative ↔ Interrogative; Positive ↔ Negative.",
+      "features": [
+        "Board-style transformations.",
+        "Speaking prompts using both forms.",
+        "Timed practice sets."
+      ],
+      "summary": "Think flexibly and speak fluently with form changes."
+    },
+    {
+      "tabLabel": "Lesson 7",
+      "title": "Sentence Transformation II — Degree Change",
+      "intro": "Positive/comparative/superlative rewrites.",
+      "features": [
+        "Precision in adjective use.",
+        "Proofreading drills.",
+        "Short descriptive writing."
+      ],
+      "summary": "Better descriptive writing and grammar control."
+    },
+    {
+      "tabLabel": "Lesson 8",
+      "title": "Voice — Active ↔ Passive",
+      "intro": "Academic tone and variation.",
+      "features": [
+        "Identify object focus.",
+        "Transform lab: 10 sentences.",
+        "Use in reports and essays."
+      ],
+      "summary": "Build academic style with passive usage."
+    },
+    {
+      "tabLabel": "Lesson 9",
+      "title": "Narration — Direct → Indirect Speech",
+      "intro": "Quoting and reporting for summaries.",
+      "features": [
+        "Backshifting rules.",
+        "Dialogue → report tasks.",
+        "Speaking: retelling news."
+      ],
+      "summary": "Summarize sources accurately in speech and writing."
+    },
+    {
+      "tabLabel": "Lesson 10",
+      "title": "Conditionals (Type 1 & 2) + Modals",
+      "intro": "Can, Could, May, Might, Must, Should, Have to.",
+      "features": [
+        "If-clauses for real/unreal situations.",
+        "Advice/obligation/possibility.",
+        "Debate prompts using modals."
+      ],
+      "summary": "Richer expression for debate and essays."
+    },
+    {
+      "tabLabel": "Lesson 11",
+      "title": "Prepositions in Context",
+      "intro": "Common traps fixed with patterns.",
+      "features": [
+        "Preposition collocations.",
+        "Picture prompts for speaking.",
+        "Editing paragraphs."
+      ],
+      "summary": "More natural phrases and fewer grammar slips."
+    },
+    {
+      "tabLabel": "Lesson 12",
+      "title": "Academic Writing I — Paragraphs",
+      "intro": "Topic sentence, unity, coherence.",
+      "features": [
+        "Outline → draft → edit.",
+        "Peer review checklist.",
+        "Timed paragraph practice."
+      ],
+      "summary": "Stronger paragraphs for college assignments."
+    },
+    {
+      "tabLabel": "Lesson 13",
+      "title": "Academic Writing II — Short Essays",
+      "intro": "Structure for exam essays.",
+      "features": [
+        "Thesis and support.",
+        "Linkers and coherence.",
+        "Error-fixing sprint."
+      ],
+      "summary": "Clear, organized essays under time pressure."
+    },
+    {
+      "tabLabel": "Lesson 14",
+      "title": "Email & Letter Writing",
+      "intro": "Professional tone and format.",
+      "features": [
+        "Subject + greeting + close.",
+        "Requests and replies.",
+        "Teacher/office scenarios."
+      ],
+      "summary": "Confident academic/professional messaging."
+    },
+    {
+      "tabLabel": "Lesson 15",
+      "title": "Summarizing Texts",
+      "intro": "Reading to note-taking to summary.",
+      "features": [
+        "Main idea extraction.",
+        "Paraphrasing techniques.",
+        "Word-limit practice."
+      ],
+      "summary": "Boost comprehension for college study."
+    },
+    {
+      "tabLabel": "Lesson 16",
+      "title": "Pronunciation Clinic I",
+      "intro": "Stress, rhythm, common Bengali→English transfers.",
+      "features": [
+        "Minimal pairs.",
+        "Intonation practice.",
+        "Recorded feedback."
+      ],
+      "summary": "Sound clearer and more confident."
+    },
+    {
+      "tabLabel": "Lesson 17",
+      "title": "Vocabulary — Word Bank & Collocations",
+      "intro": "Academic + daily usage with chunks.",
+      "features": [
+        "Word families.",
+        "Collocation ladders.",
+        "Writing with target words."
+      ],
+      "summary": "Faster recall and natural phrasing."
+    },
+    {
+      "tabLabel": "Lesson 18",
+      "title": "Idioms & Phrases for Speaking/Writing",
+      "intro": "High-impact, appropriate idioms.",
+      "features": [
+        "Context first, form second.",
+        "Do/Don't lists.",
+        "Short speaking task."
+      ],
+      "summary": "Expressive but controlled idiom use."
+    },
+    {
+      "tabLabel": "Lesson 19",
+      "title": "Speaking Lab — Role Plays",
+      "intro": "Restaurant order / asking teacher questions.",
+      "features": [
+        "Script → improv.",
+        "Feedback rounds.",
+        "Confidence coaching."
+      ],
+      "summary": "From shy to polished dialogue."
+    },
+    {
+      "tabLabel": "Lesson 20",
+      "title": "Quick Debate Workshop",
+      "intro": "“College should start at 10 AM?”",
+      "features": [
+        "Argument frames.",
+        "Rebuttal practice.",
+        "Timing and delivery."
+      ],
+      "summary": "Structured opinion speaking."
+    },
+    {
+      "tabLabel": "Lesson 21",
+      "title": "Error Correction Game",
+      "intro": "He don't like coffee → quick fixes.",
+      "features": [
+        "Spot-the-error rounds.",
+        "Why + rule points.",
+        "Scoreboard fun."
+      ],
+      "summary": "Make accuracy automatic."
+    },
+    {
+      "tabLabel": "Lesson 22",
+      "title": "Sentence Transformation Challenge",
+      "intro": "She is reading a book → negative, question, passive.",
+      "features": [
+        "Rapid drills.",
+        "Speech transfer.",
+        "Mini-quiz."
+      ],
+      "summary": "Flexible grammar in action."
+    },
+    {
+      "tabLabel": "Lesson 23",
+      "title": "Paragraph Fix in 2 Minutes",
+      "intro": "Rewrite a weak paragraph together.",
+      "features": [
+        "Edit for unity/coherence.",
+        "Add transitions.",
+        "Trim redundancy."
+      ],
+      "summary": "See writing quality jump live."
+    },
+    {
+      "tabLabel": "Lesson 24",
+      "title": "Presentation Skills I — Slides & Script",
+      "intro": "Build a simple 2-slide deck.",
+      "features": [
+        "Hook → points → close.",
+        "Slide clarity.",
+        "Language support."
+      ],
+      "summary": "Present with structure and calm."
+    },
+    {
+      "tabLabel": "Lesson 25",
+      "title": "Presentation Skills II — Delivery",
+      "intro": "Body language, voice, timing.",
+      "features": [
+        "Micro-presentations.",
+        "Peer feedback.",
+        "Coach comments."
+      ],
+      "summary": "Speak up with confidence."
+    },
+    {
+      "tabLabel": "Lesson 26",
+      "title": "Viva Practice I",
+      "intro": "Question types and concise answers.",
+      "features": [
+        "STAR responses.",
+        "Follow-up handling.",
+        "Recorded practice."
+      ],
+      "summary": "Prepared for oral exams."
+    },
+    {
+      "tabLabel": "Lesson 27",
+      "title": "Viva Practice II + Pronunciation II",
+      "intro": "Refine clarity and pace.",
+      "features": [
+        "Stress & intonation refinement.",
+        "Edge-case questions.",
+        "Confidence loop."
+      ],
+      "summary": "Polished and calm under pressure."
+    },
+    {
+      "tabLabel": "Lesson 28",
+      "title": "Reading Comprehension & Note-Taking",
+      "intro": "Skim/scan and Cornell notes.",
+      "features": [
+        "Timed reading.",
+        "Main idea mapping.",
+        "Summaries."
+      ],
+      "summary": "Read smarter, remember more."
+    },
+    {
+      "tabLabel": "Lesson 29",
+      "title": "Mock Assessment — Speaking & Writing",
+      "intro": "Exam-style tasks with scoring rubric.",
+      "features": [
+        "Essay + paragraph.",
+        "2-minute speaking prompt.",
+        "Personalized feedback."
+      ],
+      "summary": "Know your strengths and next steps."
+    },
+    {
+      "tabLabel": "Lesson 30",
+      "title": "Final Presentation + Next-Steps Plan",
+      "intro": "Showcase improvement to parents; roadmap for HSC.",
+      "features": [
+        "Short presentation.",
+        "Before/after highlight.",
+        "Self-study plan."
+      ],
+      "summary": "Celebrate progress and lock in habits."
+    }
+  ],
+  "instructors": [
+    {
+      "name": "Lead Instructor",
+      "role": "Spoken English & HSC Prep",
+      "image": "https://cdn.prod.website-files.com/66cbf9eecd2d43a6644e1854/66e54d1d831de420da7dd70f_Team%20Member-6.webp",
+      "profileUrl": "#"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is this course for SSC grads entering HSC?",
+      "answer": "Yes. The curriculum is designed to strengthen English during the first college year with speaking, writing, and viva practice."
+    },
+    {
+      "question": "How long is each class?",
+      "answer": "90 minutes. Total 30 classes over 2.5 months."
+    },
+    {
+      "question": "Will there be live speaking practice?",
+      "answer": "Every week includes speaking labs, role plays, debates, and viva rounds with instant feedback."
+    },
+    {
+      "question": "Do you cover college-style writing?",
+      "answer": "Yes—paragraphs, short essays, email/letter format, and summarizing with proper structure."
+    },
+    {
+      "question": "How are parents involved?",
+      "answer": "Orientation demos and the final presentation show visible improvement and next-steps planning."
+    }
+  ],
+  "related": [
+    {
+      "image": "https://app.theurbangaragebd.com/edumig/images/Woman-Image-Holding-Copy_1Woman-Image-Holding-Copy.webp",
+      "category": "English",
+      "title": "HSC English Essentials",
+      "ratingText": "4.8 (1.2k)",
+      "price": "৳",
+      "detailsUrl": "#"
+    }
+  ],
+  "cta": {
+    "heading": "Start now—be confident on your first day of college.",
+    "primary": { "label": "Enroll for SSC → HSC Spoken English", "url": "#" },
+    "secondary": { "label": "Talk to an advisor", "url": "#" }
+  }
+}

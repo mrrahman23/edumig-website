@@ -2,7 +2,7 @@ import { AfterViewInit, Component, NgZone, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { CoursesListComponent } from '../../../features/common/courses-list-one/courses-list.component';
-import { RouterLink } from "@angular/router";
+import { ActivatedRoute, RouterLink } from "@angular/router";
 
 @Component({
   selector: 'app-course-detail-one',
@@ -13,20 +13,31 @@ import { RouterLink } from "@angular/router";
 })
 export class CoursesDetailsComponent implements OnInit, AfterViewInit {
   public courses: any[]= [];
+  public currentSlug: string= '';
   public courses_detail: any[]= [];
   public isLoading: boolean= true;
-  constructor(private ngZone: NgZone, private http: HttpClient) {}
+  constructor(private ngZone: NgZone, private http: HttpClient, private route: ActivatedRoute) {}
   ngOnInit(): void {
-    this.http.get<any[]>('assets/data/courses.json').subscribe({
-      next: (data) => {
-        this.courses = data;
-      },
-      error: (err) => {
-        console.error('Failed to load courses:', err);
-      },
+    this.route.paramMap.subscribe(params => {
+      this.currentSlug = (params.get('slug') || '').toLowerCase();
+      if(!this.currentSlug || this.currentSlug == ''){
+        this.currentSlug = "academic-english-toefl";
+      }
     });
-    this.http.get<any[]>('assets/data/courses-details.json').subscribe({
+    // this.http.get<any[]>('assets/data/courses/.json').subscribe({
+    //   next: (data) => {
+    //     this.courses = data;
+    //   },
+    //   error: (err) => {
+    //     console.error('Failed to load courses:', err);
+    //   },
+    // });
+    console.log(this.currentSlug,'currentSlug');
+    
+    this.http.get<any[]>('assets/data/courses/'+this.currentSlug+'-details.json').subscribe({
       next: (data) => {
+        console.log(data,'data');
+        
         this.courses_detail = data;
         this.isLoading = false;
       },

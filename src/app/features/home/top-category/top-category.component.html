@@ -8,9 +8,10 @@
       <div class="w-layout-grid category-cards-wrap">
         <a
           *ngFor="let cat of categories"
-          [href]="'courses/category/' + cat.slug"
+          [href]="'courses/details/' + cat.slug"
           class="category-cards w-inline-block"
-        >
+          >
+          <!-- [href]="'courses/category/' + cat.slug" -->
           <div class="category-icons-wrap">
             <img
               [src]="'https://app.theurbangaragebd.com/edumig/images/' + cat.icon"
