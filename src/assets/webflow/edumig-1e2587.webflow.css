@@ -4551,7 +4551,7 @@ blockquote {
 }
 
 .contact-one-hero.contact-two-hero {
-  background-image: linear-gradient(#000000b3, #000000b3), url('https://app.theurbangaragebd.com/edumig/images/Contact-Us-One-2_1Contact Us One-2.webp');
+  background-image: linear-gradient(#000000b3, #000000b3), url('https://app.theurbangaragebd.com/edumig/images/contact/contact-us-cover.jpg');
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -4850,7 +4850,7 @@ blockquote {
 }
 
 .contact-two-form {
-  background-image: url('https://app.theurbangaragebd.com/edumig/images/Contact-Background-2_1Contact Background-2.webp');
+  background-image: url('https://app.theurbangaragebd.com/edumig/images/contact/form-side-cover.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -10527,7 +10527,7 @@ blockquote {
   }
 
   .contact-two-form {
-    background-image: linear-gradient(#00000080, #00000080), url('https://app.theurbangaragebd.com/edumig/images/Contact-Background-2_1Contact Background-2.webp');
+    background-image: linear-gradient(#00000080, #00000080), url('https://app.theurbangaragebd.com/edumig/images/contact/form-side-cover.jpg');
     background-position: 0 0, 50%;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
