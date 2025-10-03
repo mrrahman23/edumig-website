@@ -1,0 +1,366 @@
+{
+  "hero": {
+    "category": "English · Kids",
+    "title": "Kids English — Fun Phonics, Speaking & Storytelling",
+    "lessonsText": "Kid-friendly modules · Games & songs"
+  },
+  "stats": [
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Clock-Icons-2.svg",
+      "label": "Schedule",
+      "value": "To be announced"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Books-Icons_1.svg",
+      "label": "Total classes",
+      "value": "24 (suggested)"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Skills-Arrow.svg",
+      "label": "Duration",
+      "value": "3 months (suggested)"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Video-Icons.svg",
+      "label": "Class Duration",
+      "value": "60 minutes"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Persons.svg",
+      "label": "Age Group",
+      "value": "6–10 years (adjustable)"
+    }
+  ],
+  "overview": {
+    "description": "A playful, structured Kids English program focused on phonics, sight words, listening, speaking, and creative expression. Each class blends songs, stories, and mini‑projects to build confidence and core skills while keeping attention high.",
+    "features": [
+      "Phonics & blending (CVC → blends)",
+      "Sight‑word fluency & reading games",
+      "Storytelling with props & role‑play",
+      "Speaking circles (show‑and‑tell)",
+      "Creative writing & drawing prompts",
+      "Pronunciation & rhyme time",
+      "Weekly mini‑assessments (fun quizzes)",
+      "Parent progress notes & certificates"
+    ],
+    "audienceTitle": "Who is this for?",
+    "audienceText": "Young learners (approx. 6–10). Content scales up/down for mixed ability classes."
+  },
+  "curriculum": [
+    {
+      "tabLabel": "Lesson 1",
+      "title": "Welcome & Phonics Basics",
+      "intro": "Class rules, warm‑up songs, alphabet sounds.",
+      "features": [
+        "A–Z sound actions",
+        "Name game",
+        "Coloring task"
+      ],
+      "summary": "Happy start + baseline check."
+    },
+    {
+      "tabLabel": "Lesson 2",
+      "title": "Short Vowels · CVC Words (a)",
+      "intro": "cat, map, bat—blend and read.",
+      "features": [
+        "Phonics cards",
+        "Reading relay",
+        "Mini‑book"
+      ],
+      "summary": "Blend simple words confidently."
+    },
+    {
+      "tabLabel": "Lesson 3",
+      "title": "Short Vowels · CVC Words (e)",
+      "intro": "bed, pen, ten—phoneme focus.",
+      "features": [
+        "Tap & blend",
+        "Bingo",
+        "Copy‑trace"
+      ],
+      "summary": "Reading accuracy boost."
+    },
+    {
+      "tabLabel": "Lesson 4",
+      "title": "Short Vowels · CVC Words (i)",
+      "intro": "sit, pin, pig—sound positions.",
+      "features": [
+        "Elkonin boxes",
+        "Picture match",
+        "Rhyme time"
+      ],
+      "summary": "Hear → map → write."
+    },
+    {
+      "tabLabel": "Lesson 5",
+      "title": "Short Vowels · CVC Words (o)",
+      "intro": "dog, pot, box—chunking.",
+      "features": [
+        "Flash rounds",
+        "Board races",
+        "Mini‑book 2"
+      ],
+      "summary": "Fluency with o‑words."
+    },
+    {
+      "tabLabel": "Lesson 6",
+      "title": "Short Vowels · CVC Words (u)",
+      "intro": "sun, bus, cup—review set.",
+      "features": [
+        "Chain reading",
+        "Partner read",
+        "Sticker quiz"
+      ],
+      "summary": "Complete CVC set."
+    },
+    {
+      "tabLabel": "Lesson 7",
+      "title": "Digraphs sh/ch/th",
+      "intro": "New sounds & positions.",
+      "features": [
+        "Sound sort",
+        "Quick write",
+        "Tongue twisters"
+      ],
+      "summary": "Read & say tricky sounds."
+    },
+    {
+      "tabLabel": "Lesson 8",
+      "title": "Blends (bl, cl, st, tr…)",
+      "intro": "Cluster starters; decoding.",
+      "features": [
+        "Blend cards",
+        "Word building",
+        "Race & read"
+      ],
+      "summary": "Smoother decoding."
+    },
+    {
+      "tabLabel": "Lesson 9",
+      "title": "Sight Words I",
+      "intro": "High‑frequency words and phrases.",
+      "features": [
+        "Flash drills",
+        "Find & stick",
+        "Sentence strips"
+      ],
+      "summary": "Faster reading of common words."
+    },
+    {
+      "tabLabel": "Lesson 10",
+      "title": "Sight Words II + Punctuation",
+      "intro": "Capitals, full stop, question mark.",
+      "features": [
+        "Read & point",
+        "Fix the sentence",
+        "Mini‑book 3"
+      ],
+      "summary": "Clearer reading & writing."
+    },
+    {
+      "tabLabel": "Lesson 11",
+      "title": "Storytelling I — Characters & Settings",
+      "intro": "Act out a simple story.",
+      "features": [
+        "Puppets/props",
+        "Who/where/when",
+        "Draw a scene"
+      ],
+      "summary": "Comprehension & creativity."
+    },
+    {
+      "tabLabel": "Lesson 12",
+      "title": "Storytelling II — Sequencing",
+      "intro": "First/next/then/last.",
+      "features": [
+        "Picture order",
+        "Narrate",
+        "Comic strip"
+      ],
+      "summary": "Organize ideas in order."
+    },
+    {
+      "tabLabel": "Lesson 13",
+      "title": "Speaking — Show & Tell",
+      "intro": "Bring an item; speak 30–60 sec.",
+      "features": [
+        "Sentence stems",
+        "Feedback smiles",
+        "Peer claps"
+      ],
+      "summary": "Confident micro‑speeches."
+    },
+    {
+      "tabLabel": "Lesson 14",
+      "title": "Listening Games & Instructions",
+      "intro": "Listen‑and‑do tasks.",
+      "features": [
+        "Simon Says",
+        "Treasure map",
+        "Tick/cross"
+      ],
+      "summary": "Better listening focus."
+    },
+    {
+      "tabLabel": "Lesson 15",
+      "title": "Grammar — Nouns & Verbs",
+      "intro": "Identify & use in sentences.",
+      "features": [
+        "Circle & label",
+        "Make a sentence",
+        "Act the verb"
+      ],
+      "summary": "Parts of speech basics."
+    },
+    {
+      "tabLabel": "Lesson 16",
+      "title": "Grammar — Adjectives & ‘Be’",
+      "intro": "Describe with is/are.",
+      "features": [
+        "Describe a monster",
+        "Wall chart",
+        "Mini quiz"
+      ],
+      "summary": "Better describing sentences."
+    },
+    {
+      "tabLabel": "Lesson 17",
+      "title": "Writing — Sentences",
+      "intro": "Subject + verb + object.",
+      "features": [
+        "Jumbled fix",
+        "Copy → write",
+        "Peer stickers"
+      ],
+      "summary": "Neat, clear sentences."
+    },
+    {
+      "tabLabel": "Lesson 18",
+      "title": "Writing — Short Paragraph",
+      "intro": "Topic sentence & details.",
+      "features": [
+        "Guided lines",
+        "Picture prompt",
+        "Edit marks"
+      ],
+      "summary": "Tiny paragraphs with structure."
+    },
+    {
+      "tabLabel": "Lesson 19",
+      "title": "Project — My Mini Book",
+      "intro": "Compile pages into a book.",
+      "features": [
+        "Cover design",
+        "Read aloud",
+        "Author badge"
+      ],
+      "summary": "Proud reading moment."
+    },
+    {
+      "tabLabel": "Lesson 20",
+      "title": "Phonics Review & Games Day",
+      "intro": "Spiral review of sounds.",
+      "features": [
+        "Stations",
+        "Team games",
+        "Sticker chart"
+      ],
+      "summary": "Reinforce all skills."
+    },
+    {
+      "tabLabel": "Lesson 21",
+      "title": "Vocabulary — Themes (Animals/School/Food)",
+      "intro": "Topic words & phrases.",
+      "features": [
+        "Picture cards",
+        "Label it",
+        "Role‑play"
+      ],
+      "summary": "Thematic vocabulary growth."
+    },
+    {
+      "tabLabel": "Lesson 22",
+      "title": "Pronunciation — Rhythm & Rhyme",
+      "intro": "Chants and poems.",
+      "features": [
+        "Clap patterns",
+        "Rhyme chains",
+        "Record & listen"
+      ],
+      "summary": "Better rhythm in speech."
+    },
+    {
+      "tabLabel": "Lesson 23",
+      "title": "Assessment — Reading & Speaking",
+      "intro": "Friendly, activity‑based checks.",
+      "features": [
+        "Reading fluency",
+        "Sight words",
+        "Rubrics"
+      ],
+      "summary": "Show progress with smiles."
+    },
+    {
+      "tabLabel": "Lesson 24",
+      "title": "Showcase & Certificates",
+      "intro": "Parents invited for mini show.",
+      "features": [
+        "Read aloud",
+        "Short skit",
+        "Certificates"
+      ],
+      "summary": "Celebrate learning!"
+    }
+  ],
+  "instructors": [
+    {
+      "name": "Kids English Faculty",
+      "role": "Early Years Instructor",
+      "image": "https://cdn.prod.website-files.com/66cbf9eecd2d43a6644e1854/66e54d1d831de420da7dd70f_Team%20Member-6.webp",
+      "profileUrl": "#"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is this beginner‑friendly?",
+      "answer": "Yes—no prior reading required; we start with phonics and sight words."
+    },
+    {
+      "question": "How do you keep kids engaged?",
+      "answer": "Songs, games, crafts, and short rotating activities."
+    },
+    {
+      "question": "Will there be homework?",
+      "answer": "Short, fun tasks—reading logs, word cards, and mini‑projects."
+    },
+    {
+      "question": "Do parents get updates?",
+      "answer": "Yes—simple progress notes after checkpoints."
+    },
+    {
+      "question": "Is there a certificate?",
+      "answer": "Yes—awarded at the showcase class."
+    }
+  ],
+  "related": [
+    {
+      "image": "https://app.theurbangaragebd.com/edumig/images/Woman-Image-Holding-Copy_1Woman-Image-Holding-Copy.webp",
+      "category": "English",
+      "title": "Spoken English — Confidence & Fluency",
+      "ratingText": "Popular",
+      "price": "৳",
+      "detailsUrl": "#"
+    }
+  ],
+  "cta": {
+    "heading": "Make English fun and fearless — book a FREE demo class.",
+    "primary": {
+      "label": "Enroll in Kids English",
+      "url": "#"
+    },
+    "secondary": {
+      "label": "Book a FREE demo",
+      "url": "#"
+    }
+  }
+}

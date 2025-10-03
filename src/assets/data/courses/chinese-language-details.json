@@ -1,0 +1,365 @@
+{
+  "hero": {
+    "category": "Languages · Chinese",
+    "title": "Chinese Language Course — HSK 1 Level",
+    "lessonsText": "24 Classes · 3 Months"
+  },
+  "stats": [
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Clock-Icons-2.svg",
+      "label": "Schedule",
+      "value": "To be announced"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Books-Icons_1.svg",
+      "label": "Total classes",
+      "value": "24 (90 mins each)"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Skills-Arrow.svg",
+      "label": "Duration",
+      "value": "3 months"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Video-Icons.svg",
+      "label": "Focus",
+      "value": "Pinyin · Tones · Grammar · Speaking · Reading · Writing"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Persons.svg",
+      "label": "Course fee",
+      "value": "৳ (TBA)"
+    }
+  ],
+  "overview": {
+    "description": "Build a solid Mandarin foundation for HSK 1: Pinyin and tones, everyday phrases, core grammar, and ~150 essential words. Includes speaking drills, character basics, and mock tests so you’re ready for the HSK 1 exam.",
+    "features": [
+      "Printed handouts & vocabulary lists",
+      "Speaking labs with tone coaching",
+      "Homework & drill sheets",
+      "HSK-style practice tasks",
+      "Mock test with evaluation",
+      "Certificate upon completion",
+      "FREE demo class available"
+    ],
+    "audienceTitle": "Who is this for?",
+    "audienceText": "Beginners starting Mandarin who want a practical route to everyday conversation and HSK 1."
+  },
+  "curriculum": [
+    {
+      "tabLabel": "Lesson 1",
+      "title": "Orientation · Pinyin & 4 Tones",
+      "intro": "Course overview and pronunciation system.",
+      "features": [
+        "Tone pairs",
+        "Listening drills",
+        "Name in Pinyin"
+      ],
+      "summary": "Sound system foundation."
+    },
+    {
+      "tabLabel": "Lesson 2",
+      "title": "Initials & Finals · Greetings 你好",
+      "intro": "Introduce yourself politely.",
+      "features": [
+        "你叫什么名字？",
+        "我叫…",
+        "再见"
+      ],
+      "summary": "Basic greetings and names."
+    },
+    {
+      "tabLabel": "Lesson 3",
+      "title": "Numbers 1–20 · Age · 多少/几",
+      "intro": "Counting and asking quantities.",
+      "features": [
+        "几岁/多少岁",
+        "Phone numbers",
+        "Listening"
+      ],
+      "summary": "Handle numbers in daily talk."
+    },
+    {
+      "tabLabel": "Lesson 4",
+      "title": "Family 家 · Measure word 个",
+      "intro": "Family members and classifiers.",
+      "features": [
+        "这是/那是",
+        "有/没有",
+        "SVO order"
+      ],
+      "summary": "Build simple noun phrases."
+    },
+    {
+      "tabLabel": "Lesson 5",
+      "title": "Dates & Time · 星期/月/点",
+      "intro": "Talking about days and time.",
+      "features": [
+        "今天/昨天/明天",
+        "现在几点？",
+        "Calendar talk"
+      ],
+      "summary": "Arrange simple plans."
+    },
+    {
+      "tabLabel": "Lesson 6",
+      "title": "Locations 在 · 里/上/下",
+      "intro": "Where things/people are.",
+      "features": [
+        "这儿/那儿/哪儿",
+        "Map dialogues",
+        "是/在 contrast"
+      ],
+      "summary": "Say where and locate."
+    },
+    {
+      "tabLabel": "Lesson 7",
+      "title": "Basic Verbs 去/来/要/喜欢",
+      "intro": "Express likes, wants, movement.",
+      "features": [
+        "去学校/来这儿",
+        "喜欢+N/V",
+        "Negation 不/没"
+      ],
+      "summary": "Daily action sentences."
+    },
+    {
+      "tabLabel": "Lesson 8",
+      "title": "Food & Ordering · 请/谢谢",
+      "intro": "Polite requests and menus.",
+      "features": [
+        "点菜对话",
+        "多少钱？",
+        "量词杯/瓶"
+      ],
+      "summary": "Order food & ask price."
+    },
+    {
+      "tabLabel": "Lesson 9",
+      "title": "Adjectives 很 · 太…了",
+      "intro": "Describing people/things.",
+      "features": [
+        "很高/太贵了",
+        "吗 questions",
+        "Adjective predicates"
+      ],
+      "summary": "Make simple descriptions."
+    },
+    {
+      "tabLabel": "Lesson 10",
+      "title": "Hobbies 爱好 · 会/能/可以",
+      "intro": "Abilities and permissions.",
+      "features": [
+        "会说汉语",
+        "能来吗？",
+        "可以进来吗？"
+      ],
+      "summary": "Talk about skills politely."
+    },
+    {
+      "tabLabel": "Lesson 11",
+      "title": "Transportation 去+place+交通",
+      "intro": "Getting around the city.",
+      "features": [
+        "坐/开/骑",
+        "在…怎么走？",
+        "买票对话"
+      ],
+      "summary": "Travel basics."
+    },
+    {
+      "tabLabel": "Lesson 12",
+      "title": "Radicals 部首 · Stroke Order 笔画",
+      "intro": "Character building blocks.",
+      "features": [
+        "Common radicals",
+        "Write simple characters",
+        "Components"
+      ],
+      "summary": "Start writing correctly."
+    },
+    {
+      "tabLabel": "Lesson 13",
+      "title": "Review A · Dialogue Fluency",
+      "intro": "Spiral review with speaking focus.",
+      "features": [
+        "Role plays",
+        "Error fixes",
+        "Mini test"
+      ],
+      "summary": "Stabilize lessons 1–6."
+    },
+    {
+      "tabLabel": "Lesson 14",
+      "title": "Rooms & Objects · 这/那/哪",
+      "intro": "Household and classroom items.",
+      "features": [
+        "在+location",
+        "有/没有",
+        "找东西"
+      ],
+      "summary": "Describe and locate items."
+    },
+    {
+      "tabLabel": "Lesson 15",
+      "title": "Clothing · 颜色 · 买东西",
+      "intro": "Shopping language.",
+      "features": [
+        "试一试",
+        "大小合适",
+        "讨价还价(入门)"
+      ],
+      "summary": "Talk color/size/price."
+    },
+    {
+      "tabLabel": "Lesson 16",
+      "title": "Weather 天气 · 喜好",
+      "intro": "Discuss weather and preferences.",
+      "features": [
+        "今天很热",
+        "喜欢下雨吗？",
+        "季节词"
+      ],
+      "summary": "Everyday small talk."
+    },
+    {
+      "tabLabel": "Lesson 17",
+      "title": "Health 身体 · 没事儿",
+      "intro": "Body and simple problems.",
+      "features": [
+        "哪儿不舒服？",
+        "要休息",
+        "看医生(入门)"
+      ],
+      "summary": "Handle basic health talk."
+    },
+    {
+      "tabLabel": "Lesson 18",
+      "title": "Appointments 约会 · 时间表达",
+      "intro": "Making simple plans.",
+      "features": [
+        "有时间吗？",
+        "几点？哪天？",
+        "确认"
+      ],
+      "summary": "Set and confirm meetings."
+    },
+    {
+      "tabLabel": "Lesson 19",
+      "title": "Grammar Review · Particles 的/了/吗/呢",
+      "intro": "Common particles in use.",
+      "features": [
+        "的 attributive",
+        "了 aspect",
+        "吗/呢 questions"
+      ],
+      "summary": "More accurate sentences."
+    },
+    {
+      "tabLabel": "Lesson 20",
+      "title": "Reading Practice · Signs & Short Texts",
+      "intro": "Practical reading tasks.",
+      "features": [
+        "公共标识",
+        "短对话",
+        "选择题"
+      ],
+      "summary": "HSK-style reading."
+    },
+    {
+      "tabLabel": "Lesson 21",
+      "title": "Listening Practice · Everyday Dialogues",
+      "intro": "Targeted listening skills.",
+      "features": [
+        "Keyword catch",
+        "Tone check",
+        "Answer quickly"
+      ],
+      "summary": "Improve listening accuracy."
+    },
+    {
+      "tabLabel": "Lesson 22",
+      "title": "Writing Practice · Short Notes",
+      "intro": "Pinyin → characters pipeline.",
+      "features": [
+        "Copy → write",
+        "Spacing & order",
+        "Common mistakes"
+      ],
+      "summary": "Legible short writing."
+    },
+    {
+      "tabLabel": "Lesson 23",
+      "title": "Mock Test A + Feedback",
+      "intro": "HSK 1 simulation and review.",
+      "features": [
+        "Score estimate",
+        "Error log",
+        "Fix plan"
+      ],
+      "summary": "Benchmark progress."
+    },
+    {
+      "tabLabel": "Lesson 24",
+      "title": "Mock Test B + Next Steps",
+      "intro": "Final mock and study roadmap.",
+      "features": [
+        "Exam tips",
+        "Resource list",
+        "Certificate"
+      ],
+      "summary": "Enter exam confident."
+    }
+  ],
+  "instructors": [
+    {
+      "name": "Chinese Language Faculty",
+      "role": "HSK Instructor",
+      "image": "https://cdn.prod.website-files.com/66cbf9eecd2d43a6644e1854/66e54d1d831de420da7dd70f_Team%20Member-6.webp",
+      "profileUrl": "#"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is this beginner‑friendly?",
+      "answer": "Yes—no prior Chinese required; we start with Pinyin and tones."
+    },
+    {
+      "question": "Is HSK 1 vocabulary covered?",
+      "answer": "Yes—~150 essential words with speaking/reading drills."
+    },
+    {
+      "question": "Do you provide materials and homework?",
+      "answer": "Yes—handouts, drill sheets, and weekly tasks are included."
+    },
+    {
+      "question": "Are there mock tests?",
+      "answer": "Two HSK‑style mocks with feedback are included."
+    },
+    {
+      "question": "Is there a demo class?",
+      "answer": "Yes—FREE demo class is available."
+    }
+  ],
+  "related": [
+    {
+      "image": "https://app.theurbangaragebd.com/edumig/images/Woman-Image-Holding-Copy_1Woman-Image-Holding-Copy.webp",
+      "category": "Languages",
+      "title": "Japanese JLPT N5",
+      "ratingText": "Popular",
+      "price": "৳",
+      "detailsUrl": "#"
+    }
+  ],
+  "cta": {
+    "heading": "Start your Mandarin journey — book a FREE demo class.",
+    "primary": {
+      "label": "Enroll in Chinese HSK 1",
+      "url": "#"
+    },
+    "secondary": {
+      "label": "Book a FREE demo",
+      "url": "#"
+    }
+  }
+}

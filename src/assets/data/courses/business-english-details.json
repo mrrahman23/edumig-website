@@ -1,0 +1,278 @@
+{
+  "hero": {
+    "category": "English · Business",
+    "title": "Business English — Communication for Work & Career",
+    "lessonsText": "Modular syllabus · Role‑plays & projects"
+  },
+  "stats": [
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Clock-Icons-2.svg",
+      "label": "Schedule",
+      "value": "To be announced"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Books-Icons_1.svg",
+      "label": "Total classes",
+      "value": "16–24 (customizable)"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Skills-Arrow.svg",
+      "label": "Focus",
+      "value": "Meetings · Email · Presentation · Negotiation"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Video-Icons.svg",
+      "label": "Class Duration",
+      "value": "90 minutes"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Persons.svg",
+      "label": "Learner level",
+      "value": "Pre‑intermediate to Advanced"
+    }
+  ],
+  "overview": {
+    "description": "A practical Business English program focused on clear professional communication—emails, meetings, presentations, negotiation, phone/Zoom, and cross‑cultural etiquette. Learners practice with real‑world scenarios, templates, and feedback.",
+    "features": [
+      "Live role‑plays for meetings, calls, and negotiations",
+      "Email/write‑up templates with accuracy & tone coaching",
+      "Presentation skills with slides and delivery feedback",
+      "Vocabulary for finance, marketing, HR, and operations",
+      "Pronunciation & clarity drills for global teams",
+      "Power phrases for persuasion, diplomacy, and empathy",
+      "Project: pitch deck + executive summary",
+      "Certificate upon completion"
+    ],
+    "audienceTitle": "Who is this for?",
+    "audienceText": "Students and professionals who want confident, concise, and polite English for the workplace and career growth."
+  },
+  "curriculum": [
+    {
+      "tabLabel": "Lesson 1",
+      "title": "Orientation & Professional Profile",
+      "intro": "Setting goals; 60‑sec professional intro.",
+      "features": [
+        "STAR structure",
+        "Elevator pitch",
+        "Feedback log"
+      ],
+      "summary": "Clear self‑introductions and objectives."
+    },
+    {
+      "tabLabel": "Lesson 2",
+      "title": "Email Essentials I — Structure & Tone",
+      "intro": "Subject lines, openings, closings, CC/BCC.",
+      "features": [
+        "Templates",
+        "Polite requests",
+        "Error fixes"
+      ],
+      "summary": "Concise, polite emails."
+    },
+    {
+      "tabLabel": "Lesson 3",
+      "title": "Email Essentials II — Escalations & Follow‑ups",
+      "intro": "Clarifying info, reminders, complaint handling.",
+      "features": [
+        "Softening language",
+        "Action bullets",
+        "Samples"
+      ],
+      "summary": "Diplomacy in writing."
+    },
+    {
+      "tabLabel": "Lesson 4",
+      "title": "Meetings — Chairing & Participating",
+      "intro": "Agenda, timing, turn‑taking, minutes.",
+      "features": [
+        "Interrupting politely",
+        "Agree/disagree",
+        "Next steps"
+      ],
+      "summary": "Run effective meetings."
+    },
+    {
+      "tabLabel": "Lesson 5",
+      "title": "Presentation Skills I — Slide Design & Story",
+      "intro": "Audience focus; structure for clarity.",
+      "features": [
+        "Hooks",
+        "Signposting",
+        "Visual rules"
+      ],
+      "summary": "Tell a clear story with slides."
+    },
+    {
+      "tabLabel": "Lesson 6",
+      "title": "Presentation Skills II — Delivery & Q&A",
+      "intro": "Voice, body language, handling questions.",
+      "features": [
+        "Nerves control",
+        "Bridging",
+        "Timeboxing"
+      ],
+      "summary": "Confident delivery on stage/Zoom."
+    },
+    {
+      "tabLabel": "Lesson 7",
+      "title": "Negotiation — Interests, Offers, & Language",
+      "intro": "Prepare goals and alternatives.",
+      "features": [
+        "Probe questions",
+        "Concessions",
+        "Win‑win phrases"
+      ],
+      "summary": "Reach agreements respectfully."
+    },
+    {
+      "tabLabel": "Lesson 8",
+      "title": "Phone/Zoom Etiquette & Listening",
+      "intro": "Openings, clarifying, confirming.",
+      "features": [
+        "Accent handling",
+        "Check‑backs",
+        "Recaps"
+      ],
+      "summary": "Smooth virtual communication."
+    },
+    {
+      "tabLabel": "Lesson 9",
+      "title": "Business Vocabulary — Functions & Departments",
+      "intro": "Core terms for HR/Finance/Marketing/Ops.",
+      "features": [
+        "Collocations",
+        "Email practice",
+        "Short report"
+      ],
+      "summary": "Use the right words at work."
+    },
+    {
+      "tabLabel": "Lesson 10",
+      "title": "Writing — Reports & Executive Summaries",
+      "intro": "Clarity and scannability.",
+      "features": [
+        "Headings",
+        "Bullets",
+        "Data commentary"
+      ],
+      "summary": "Readable business documents."
+    },
+    {
+      "tabLabel": "Lesson 11",
+      "title": "Intercultural Communication",
+      "intro": "Direct vs. indirect styles; etiquette.",
+      "features": [
+        "Do/Don't lists",
+        "Case studies",
+        "Role‑play"
+      ],
+      "summary": "Fewer misunderstandings."
+    },
+    {
+      "tabLabel": "Lesson 12",
+      "title": "Persuasion & Positive Language",
+      "intro": "Framing benefits and managing objections.",
+      "features": [
+        "Power verbs",
+        "Because‑bridge",
+        "Closes"
+      ],
+      "summary": "Influence with empathy."
+    },
+    {
+      "tabLabel": "Lesson 13",
+      "title": "Job Skills — CV/LinkedIn & Interview",
+      "intro": "Profile statements and STAR answers.",
+      "features": [
+        "Mock interview",
+        "Feedback grid",
+        "Follow‑up mail"
+      ],
+      "summary": "Career communications toolkit."
+    },
+    {
+      "tabLabel": "Lesson 14",
+      "title": "Project Lab — Pitch Deck Workshop",
+      "intro": "Team pitch planning and rehearsal.",
+      "features": [
+        "Slide reviews",
+        "Timing drills",
+        "Peer feedback"
+      ],
+      "summary": "Apply skills to a live project."
+    },
+    {
+      "tabLabel": "Lesson 15",
+      "title": "Mock Presentation Day",
+      "intro": "Deliver pitch with Q&A.",
+      "features": [
+        "Rubric scoring",
+        "Video review",
+        "Action plan"
+      ],
+      "summary": "Measure progress and polish."
+    },
+    {
+      "tabLabel": "Lesson 16",
+      "title": "Wrap‑up & Next Steps",
+      "intro": "Personalized improvement plan.",
+      "features": [
+        "Resource list",
+        "Habit tracker",
+        "Certificate"
+      ],
+      "summary": "Sustain gains after the course."
+    }
+  ],
+  "instructors": [
+    {
+      "name": "Business English Faculty",
+      "role": "Lead Instructor",
+      "image": "https://cdn.prod.website-files.com/66cbf9eecd2d43a6644e1854/66e54d1d831de420da7dd70f_Team%20Member-6.webp",
+      "profileUrl": "#"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is this course suitable for beginners?",
+      "answer": "Yes—content scales from pre‑intermediate to advanced; placement check provided."
+    },
+    {
+      "question": "Will I get templates?",
+      "answer": "Yes—email, report, and presentation templates are included."
+    },
+    {
+      "question": "Is there a certificate?",
+      "answer": "Yes—issued after the final project/presentation."
+    },
+    {
+      "question": "Do you offer a demo class?",
+      "answer": "Yes—FREE demo class is available."
+    },
+    {
+      "question": "Can it be customized for teams?",
+      "answer": "We can tailor modules, vocabulary, and case studies to your industry."
+    }
+  ],
+  "related": [
+    {
+      "image": "https://app.theurbangaragebd.com/edumig/images/Woman-Image-Holding-Copy_1Woman-Image-Holding-Copy.webp",
+      "category": "English",
+      "title": "Spoken English — Confidence & Fluency",
+      "ratingText": "Popular",
+      "price": "৳",
+      "detailsUrl": "#"
+    }
+  ],
+  "cta": {
+    "heading": "Upgrade your professional English — book a FREE demo.",
+    "primary": {
+      "label": "Enroll in Business English",
+      "url": "#"
+    },
+    "secondary": {
+      "label": "Book a FREE demo",
+      "url": "#"
+    }
+  }
+}

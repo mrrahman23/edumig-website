@@ -1,0 +1,369 @@
+{
+    "hero": {
+      "category": "Languages · Japanese",
+      "title": "Japanese Language Course — JLPT N5 Level",
+      "lessonsText": "24 Classes · 3 Months"
+    },
+    "stats": [
+      {
+        "icon": "https://app.theurbangaragebd.com/edumig/images/Clock-Icons-2.svg",
+        "label": "Schedule",
+        "value": "Friday, 10:45 AM — 12:15 PM"
+      },
+      {
+        "icon": "https://app.theurbangaragebd.com/edumig/images/Books-Icons_1.svg",
+        "label": "Total classes",
+        "value": "24 (90 mins each)"
+      },
+      {
+        "icon": "https://app.theurbangaragebd.com/edumig/images/Skills-Arrow.svg",
+        "label": "Duration",
+        "value": "3 months"
+      },
+      {
+        "icon": "https://app.theurbangaragebd.com/edumig/images/Video-Icons.svg",
+        "label": "Focus",
+        "value": "Speaking · Reading · Grammar · Writing · Vocabulary · Pronunciation"
+      },
+      {
+        "icon": "https://app.theurbangaragebd.com/edumig/images/Persons.svg",
+        "label": "Course fee",
+        "value": "৳ 24,000"
+      }
+    ],
+    "overview": {
+      "description": "Master JLPT N5 foundations: Hiragana, Katakana, ~100 basic Kanji, essential grammar and sentence patterns, daily conversation, and exam skills. The course blends in‑class practice, drills, and mock tests so you’re ready for N5.",
+      "features": [
+        "Printed handout notes",
+        "In‑class practice tests",
+        "Homework & vocabulary drills",
+        "Mock test with evaluation",
+        "Certificate upon completion",
+        "JLPT N5 exam support & tips",
+        "FREE demo class available"
+      ],
+      "audienceTitle": "Who is this for?",
+      "audienceText": "Beginners with no prior Japanese learning experience who want a solid start toward JLPT N5 and everyday conversation."
+    },
+    "curriculum": [
+      {
+        "tabLabel": "Lesson 1",
+        "title": "Orientation · Hiragana (a–o) · Greetings",
+        "intro": "Course outline, study method, basic greetings.",
+        "features": [
+          "Hiragana stroke order",
+          "Self‑intro phrases",
+          "Polite forms"
+        ],
+        "summary": "Start reading/writing Hiragana and greeting confidently."
+      },
+      {
+        "tabLabel": "Lesson 2",
+        "title": "Hiragana (ka–ko) · Basic sentence (AはBです)",
+        "intro": "Topic marker は; self introductions.",
+        "features": [
+          "Desu copula",
+          "Name/occupation patterns",
+          "Reading drill"
+        ],
+        "summary": "Introduce yourself using は/です patterns."
+      },
+      {
+        "tabLabel": "Lesson 3",
+        "title": "Hiragana (sa–so) · Particles は・の",
+        "intro": "Possession の; describing items/people.",
+        "features": [
+          "Vocabulary: family",
+          "Reading practice",
+          "Mini‑dialogues"
+        ],
+        "summary": "Build simple descriptive sentences."
+      },
+      {
+        "tabLabel": "Lesson 4",
+        "title": "Hiragana (ta–to) · This/That/Which (これ/それ/あれ/どれ)",
+        "intro": "Demonstratives for objects.",
+        "features": [
+          "Classroom phrases",
+          "Shopping mini‑roleplay",
+          "Listening"
+        ],
+        "summary": "Ask/tell what something is."
+      },
+      {
+        "tabLabel": "Lesson 5",
+        "title": "Hiragana (na–no) · Numbers & Counters (つ)",
+        "intro": "Counting basics and quantities.",
+        "features": [
+          "Price asking",
+          "Buying items",
+          "Reading prices"
+        ],
+        "summary": "Use numbers in daily contexts."
+      },
+      {
+        "tabLabel": "Lesson 6",
+        "title": "Hiragana (ha–ho) · Time/Days · Particles に・で",
+        "intro": "Talking about schedule and places.",
+        "features": [
+          "Telling time",
+          "Days of week",
+          "Simple plans"
+        ],
+        "summary": "Say when/where actions happen."
+      },
+      {
+        "tabLabel": "Lesson 7",
+        "title": "Complete Hiragana · Katakana (a–o) intro",
+        "intro": "Loanwords with Katakana.",
+        "features": [
+          "Reading menus",
+          "Countries",
+          "Katakana practice"
+        ],
+        "summary": "Read basic Katakana words."
+      },
+      {
+        "tabLabel": "Lesson 8",
+        "title": "Katakana (ka–ko) · Existential あります/います",
+        "intro": "Talking about existence and location.",
+        "features": [
+          "Place nouns",
+          "Prepositions",
+          "Map practice"
+        ],
+        "summary": "Describe where things are."
+      },
+      {
+        "tabLabel": "Lesson 9",
+        "title": "Katakana (sa–so) · Verb Masu‑form (Present)",
+        "intro": "Daily routines with verbs.",
+        "features": [
+          "Positive/negative",
+          "Questions か",
+          "Listening"
+        ],
+        "summary": "Talk about habits using 〜ます."
+      },
+      {
+        "tabLabel": "Lesson 10",
+        "title": "Katakana (ta–to) · Adjectives (い/な) · です/くない",
+        "intro": "Describing people and things.",
+        "features": [
+          "Conjugation basics",
+          "Degree words",
+          "Role‑play"
+        ],
+        "summary": "Make natural descriptions."
+      },
+      {
+        "tabLabel": "Lesson 11",
+        "title": "Katakana (na–no) · Past tense 〜ました/でした",
+        "intro": "Past actions and experiences.",
+        "features": [
+          "Past negative",
+          "Weekend talk",
+          "Short diary"
+        ],
+        "summary": "Narrate simple past events."
+      },
+      {
+        "tabLabel": "Lesson 12",
+        "title": "Basic Kanji I (日 月 火 水 木 金 土 人 口 山 川)",
+        "intro": "Reading calendar and simple nouns.",
+        "features": [
+          "Stroke order",
+          "Reading practice",
+          "Kanji quiz"
+        ],
+        "summary": "Recognize core N5 Kanji."
+      },
+      {
+        "tabLabel": "Lesson 13",
+        "title": "Particles を・へ・に・で Review · Directions",
+        "intro": "Movement verbs and giving directions.",
+        "features": [
+          "駅/バス停 vocabulary",
+          "Map tasks",
+          "Listening"
+        ],
+        "summary": "Ask/give directions politely."
+      },
+      {
+        "tabLabel": "Lesson 14",
+        "title": "Te‑form Intro 〜て · Requests 〜てください",
+        "intro": "Chaining actions and polite requests.",
+        "features": [
+          "Prohibitions 〜てはいけません",
+          "Classroom use",
+          "Drills"
+        ],
+        "summary": "Make/understand requests politely."
+      },
+      {
+        "tabLabel": "Lesson 15",
+        "title": "Preferences 好き/嫌い · Abilities できます",
+        "intro": "Talking about likes and abilities.",
+        "features": [
+          "Hobbies",
+          "Invitations",
+          "Refusals politely"
+        ],
+        "summary": "Discuss preferences with nuance."
+      },
+      {
+        "tabLabel": "Lesson 16",
+        "title": "Comparisons ほうが/より · Quantifiers",
+        "intro": "Simple comparisons and amounts.",
+        "features": [
+          "Cheaper/expensive",
+          "More/less",
+          "Shopping talk"
+        ],
+        "summary": "Compare items and make choices."
+      },
+      {
+        "tabLabel": "Lesson 17",
+        "title": "Plans 〜つもりです · Wants 〜たい",
+        "intro": "Future intentions and desires.",
+        "features": [
+          "Travel plans",
+          "Restaurant orders",
+          "Writing plans"
+        ],
+        "summary": "Express what you want to do."
+      },
+      {
+        "tabLabel": "Lesson 18",
+        "title": "Invitation Patterns ませんか · ましょう",
+        "intro": "Inviting and agreeing/declining.",
+        "features": [
+          "Time/place negotiation",
+          "Polite style",
+          "Role‑plays"
+        ],
+        "summary": "Handle everyday invitations smoothly."
+      },
+      {
+        "tabLabel": "Lesson 19",
+        "title": "Daily Life Dialogues · Review I",
+        "intro": "Consolidation via real‑life scenes.",
+        "features": [
+          "At stores",
+          "At school",
+          "On phone"
+        ],
+        "summary": "Fluency through situational practice."
+      },
+      {
+        "tabLabel": "Lesson 20",
+        "title": "Basic Kanji II (学 校 生 先 大 小 中 上 下 左 右)",
+        "intro": "School and position Kanji.",
+        "features": [
+          "Reading signs",
+          "Mini‑tests",
+          "Writing practice"
+        ],
+        "summary": "Expand Kanji for N5 contexts."
+      },
+      {
+        "tabLabel": "Lesson 21",
+        "title": "Listening & Reading Strategies (N5)",
+        "intro": "Exam‑style tasks and tactics.",
+        "features": [
+          "Skimming",
+          "Option traps",
+          "Timing"
+        ],
+        "summary": "Score better with smart strategies."
+      },
+      {
+        "tabLabel": "Lesson 22",
+        "title": "Mock Test A + Feedback",
+        "intro": "Full N5‑style practice test.",
+        "features": [
+          "Detailed evaluation",
+          "Error log",
+          "Plan fixes"
+        ],
+        "summary": "Know your strengths & gaps."
+      },
+      {
+        "tabLabel": "Lesson 23",
+        "title": "Mock Test B + Speaking Drills",
+        "intro": "Second mock with conversation focus.",
+        "features": [
+          "Speed drills",
+          "Pronunciation",
+          "Confidence"
+        ],
+        "summary": "Stabilize performance before exam."
+      },
+      {
+        "tabLabel": "Lesson 24",
+        "title": "Final Review · Exam Day Tips · Next Steps",
+        "intro": "Last‑minute guidance and resources.",
+        "features": [
+          "Checklists",
+          "Common pitfalls",
+          "After‑N5 roadmap"
+        ],
+        "summary": "Walk in confident and prepared."
+      }
+    ],
+    "instructors": [
+      {
+        "name": "Nihongo Sensei",
+        "role": "Japanese Language Instructor (JLPT)",
+        "image": "https://cdn.prod.website-files.com/66cbf9eecd2d43a6644e1854/66e54d1d831de420da7dd70f_Team%20Member-6.webp",
+        "profileUrl": "#"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is this suitable for complete beginners?",
+        "answer": "Yes. We start from Hiragana/Katakana and build up to JLPT N5 grammar, vocabulary, and Kanji."
+      },
+      {
+        "question": "How long is each class?",
+        "answer": "1.5 hours (90 minutes), once a week on Fridays."
+      },
+      {
+        "question": "Do you provide study materials?",
+        "answer": "Yes: printed notes, homework drills, practice tests, and mock test feedback."
+      },
+      {
+        "question": "Is there a certificate?",
+        "answer": "Yes, upon successful completion."
+      },
+      {
+        "question": "Do you help with the N5 exam?",
+        "answer": "We include exam tips, strategies, and two mock tests with evaluation."
+      },
+      {
+        "question": "Can I attend a demo?",
+        "answer": "Absolutely—FREE demo class is available."
+      }
+    ],
+    "related": [
+      {
+        "image": "https://app.theurbangaragebd.com/edumig/images/Woman-Image-Holding-Copy_1Woman-Image-Holding-Copy.webp",
+        "category": "Languages",
+        "title": "JLPT N4 Bridge (Next Level)",
+        "ratingText": "4.9 (820)",
+        "price": "৳",
+        "detailsUrl": "#"
+      }
+    ],
+    "cta": {
+      "heading": "Book your FREE demo class and start your JLPT N5 journey.",
+      "primary": {
+        "label": "Enroll in JLPT N5",
+        "url": "#"
+      },
+      "secondary": {
+        "label": "Book a FREE demo",
+        "url": "#"
+      }
+    }
+  }

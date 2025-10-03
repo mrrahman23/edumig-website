@@ -1,0 +1,322 @@
+{
+  "hero": {
+    "category": "English · Spoken",
+    "title": "Spoken English — Confidence & Fluency (College-Focused)",
+    "lessonsText": "Flexible syllabus"
+  },
+  "stats": [
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Clock-Icons-2.svg",
+      "label": "Schedule",
+      "value": "To be announced"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Books-Icons_1.svg",
+      "label": "Total classes",
+      "value": "Customizable"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Skills-Arrow.svg",
+      "label": "Focus",
+      "value": "Speaking · Grammar · Writing · Vocabulary · Pronunciation"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Video-Icons.svg",
+      "label": "Class Duration",
+      "value": "Typically 90 minutes"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Persons.svg",
+      "label": "Outcome",
+      "value": "College-ready communication"
+    }
+  ],
+  "overview": {
+    "description": "A practical spoken English course designed to build confidence, accuracy, and clarity for college life—presentations, viva, group work, and daily communication. Blends speaking labs with targeted grammar, writing, vocabulary, and pronunciation coaching.",
+    "features": [
+      "Live speaking labs (introductions, presentations, debates)",
+      "Role plays for campus scenarios and daily life",
+      "Error-correction clinics (grammar & pronunciation)",
+      "Academic writing boosters: paragraphs, emails, short essays",
+      "Vocabulary growth: word banks, collocations, idioms",
+      "Pronunciation & fluency drills with feedback",
+      "Mock viva and presentation day",
+      "Certificate upon completion (optional)"
+    ],
+    "audienceTitle": "Who is this for?",
+    "audienceText": "SSC/HSC students and college entrants who want confident spoken English for classes, viva, and everyday use."
+  },
+  "curriculum": [
+    {
+      "tabLabel": "Lesson 1",
+      "title": "Orientation & Baseline Speaking",
+      "intro": "Goals, baseline 30‑sec intro, instant feedback.",
+      "features": [
+        "Confidence tips",
+        "Error log",
+        "Pronunciation quick wins"
+      ],
+      "summary": "See improvement from day one."
+    },
+    {
+      "tabLabel": "Lesson 2",
+      "title": "Tense Control in Speech",
+      "intro": "Present vs. past vs. future in real talk.",
+      "features": [
+        "Common slips",
+        "Drills",
+        "Mini‑speeches"
+      ],
+      "summary": "Sound accurate and natural."
+    },
+    {
+      "tabLabel": "Lesson 3",
+      "title": "Sentence Patterns & Questioning",
+      "intro": "Affirmative ↔ Interrogative; Positive ↔ Negative.",
+      "features": [
+        "Transformations",
+        "Q&A practice",
+        "Speed rounds"
+      ],
+      "summary": "Think and speak faster."
+    },
+    {
+      "tabLabel": "Lesson 4",
+      "title": "Pronunciation I — Stress & Rhythm",
+      "intro": "Connected speech basics.",
+      "features": [
+        "Minimal pairs",
+        "Chunking",
+        "Shadowing"
+      ],
+      "summary": "Clarity boost."
+    },
+    {
+      "tabLabel": "Lesson 5",
+      "title": "Vocabulary — Word Banks & Collocations",
+      "intro": "High‑utility academic + daily words.",
+      "features": [
+        "Word families",
+        "Collocation ladders",
+        "Usage tasks"
+      ],
+      "summary": "Use stronger words correctly."
+    },
+    {
+      "tabLabel": "Lesson 6",
+      "title": "Email & Message Writing",
+      "intro": "College + professional tone.",
+      "features": [
+        "Subject lines",
+        "Requests",
+        "Follow‑ups"
+      ],
+      "summary": "Write clearly and politely."
+    },
+    {
+      "tabLabel": "Lesson 7",
+      "title": "Role Plays — Campus & Daily Life",
+      "intro": "Realistic dialogues.",
+      "features": [
+        "Polite requests",
+        "Clarifying",
+        "Fix‑and‑repeat"
+      ],
+      "summary": "From shy to polished."
+    },
+    {
+      "tabLabel": "Lesson 8",
+      "title": "Listening & Note‑taking",
+      "intro": "Lecture and peer talk strategies.",
+      "features": [
+        "Signal words",
+        "Abbreviations",
+        "Summary"
+      ],
+      "summary": "Understand more, remember more."
+    },
+    {
+      "tabLabel": "Lesson 9",
+      "title": "Pronunciation II — Intonation",
+      "intro": "Sound more natural.",
+      "features": [
+        "Rise/fall",
+        "Emphasis",
+        "Record & review"
+      ],
+      "summary": "Better flow and confidence."
+    },
+    {
+      "tabLabel": "Lesson 10",
+      "title": "Paragraph & Short Essay",
+      "intro": "Structure and coherence.",
+      "features": [
+        "Thesis + support",
+        "Linkers",
+        "Editing checklist"
+      ],
+      "summary": "Write exam‑ready pieces."
+    },
+    {
+      "tabLabel": "Lesson 11",
+      "title": "Debate Workshop",
+      "intro": "Opinion language & rebuttals.",
+      "features": [
+        "Frames",
+        "Timing",
+        "Delivery"
+      ],
+      "summary": "Persuade with structure."
+    },
+    {
+      "tabLabel": "Lesson 12",
+      "title": "Error‑Correction Lab",
+      "intro": "SVA, articles, prepositions.",
+      "features": [
+        "Spot‑the‑error",
+        "Why + rule",
+        "Fix‑fast drills"
+      ],
+      "summary": "Reduce recurring mistakes."
+    },
+    {
+      "tabLabel": "Lesson 13",
+      "title": "Summarizing Texts",
+      "intro": "Concise, accurate summaries.",
+      "features": [
+        "Main‑idea mapping",
+        "Paraphrasing",
+        "Word‑limit"
+      ],
+      "summary": "Study‑skill upgrade."
+    },
+    {
+      "tabLabel": "Lesson 14",
+      "title": "Presentation Skills I — Slides & Script",
+      "intro": "Structure, visuals, language.",
+      "features": [
+        "Hooks",
+        "Signposting",
+        "Slide clarity"
+      ],
+      "summary": "Build a crisp deck."
+    },
+    {
+      "tabLabel": "Lesson 15",
+      "title": "Presentation Skills II — Delivery",
+      "intro": "Voice, body language, timing.",
+      "features": [
+        "Micro‑presentations",
+        "Peer feedback",
+        "Coach tips"
+      ],
+      "summary": "Speak with impact."
+    },
+    {
+      "tabLabel": "Lesson 16",
+      "title": "Mock Viva & Panel Q&A",
+      "intro": "Answer concisely under pressure.",
+      "features": [
+        "STAR answers",
+        "Follow‑ups",
+        "Confidence loop"
+      ],
+      "summary": "Be viva‑ready."
+    },
+    {
+      "tabLabel": "Lesson 17",
+      "title": "Idioms & Phrases",
+      "intro": "Natural expressions for speech/writing.",
+      "features": [
+        "Context first",
+        "Do/Don't",
+        "Short speaking tasks"
+      ],
+      "summary": "Expressiveness without overuse."
+    },
+    {
+      "tabLabel": "Lesson 18",
+      "title": "Reading for Speaking",
+      "intro": "Turn reading into discussion.",
+      "features": [
+        "Opinion scaffolds",
+        "Evidence",
+        "Fluency"
+      ],
+      "summary": "Think → speak pipeline."
+    },
+    {
+      "tabLabel": "Lesson 19",
+      "title": "Integrated Skills Lab",
+      "intro": "Real‑life tasks mixing R/W/S/L.",
+      "features": [
+        "Timed tasks",
+        "Feedback rounds",
+        "Personal goals"
+      ],
+      "summary": "Fluency under constraints."
+    },
+    {
+      "tabLabel": "Lesson 20",
+      "title": "Showcase & Next Steps",
+      "intro": "Final presentation + plan.",
+      "features": [
+        "Before/after highlight",
+        "Self‑study roadmap",
+        "Certificate (optional)"
+      ],
+      "summary": "Lock in habits and celebrate progress."
+    }
+  ],
+  "instructors": [
+    {
+      "name": "Spoken English Faculty",
+      "role": "Lead Instructor",
+      "image": "https://cdn.prod.website-files.com/66cbf9eecd2d43a6644e1854/66e54d1d831de420da7dd70f_Team%20Member-6.webp",
+      "profileUrl": "#"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is this course beginner‑friendly?",
+      "answer": "Yes—starts from the basics and ramps up to college‑level communication tasks."
+    },
+    {
+      "question": "Will I get speaking practice every class?",
+      "answer": "Yes—every session includes live speaking with feedback."
+    },
+    {
+      "question": "Do you cover grammar?",
+      "answer": "Yes—targeted grammar that directly improves speaking and writing."
+    },
+    {
+      "question": "Is there a certificate?",
+      "answer": "Optional certificate upon successful completion and final presentation."
+    },
+    {
+      "question": "Do you offer a demo class?",
+      "answer": "Yes—FREE demo class is available."
+    }
+  ],
+  "related": [
+    {
+      "image": "https://app.theurbangaragebd.com/edumig/images/Woman-Image-Holding-Copy_1Woman-Image-Holding-Copy.webp",
+      "category": "English",
+      "title": "SSC → HSC Spoken English Foundation (2026)",
+      "ratingText": "Popular",
+      "price": "৳",
+      "detailsUrl": "#"
+    }
+  ],
+  "cta": {
+    "heading": "Build confident English for college — join a FREE demo class.",
+    "primary": {
+      "label": "Enroll in Spoken English",
+      "url": "#"
+    },
+    "secondary": {
+      "label": "Book a FREE demo",
+      "url": "#"
+    }
+  }
+}

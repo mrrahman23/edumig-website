@@ -1,0 +1,164 @@
+{
+  "hero": {
+    "category": "Bundle · Multi‑Course",
+    "title": "5‑in‑1 Program — Languages & Test Prep Bundle",
+    "lessonsText": "Pick any (or all) 5 tracks"
+  },
+  "stats": [
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Clock-Icons-2.svg",
+      "label": "Schedule",
+      "value": "Flexible batches (Weekday/Weekend)"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Books-Icons_1.svg",
+      "label": "Total classes",
+      "value": "Per track (see details)"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Skills-Arrow.svg",
+      "label": "Duration",
+      "value": "Per track (see details)"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Video-Icons.svg",
+      "label": "Class Duration",
+      "value": "Typically 90 minutes"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Persons.svg",
+      "label": "Perks",
+      "value": "FREE demo · Printed notes · Mocks (where relevant)"
+    }
+  ],
+  "overview": {
+    "description": "A single bundle that lets students combine up to five popular programs: Spoken English, IELTS, PTE, Japanese (JLPT N5), and Chinese (HSK 1). Mix and match to fit your goals—college communication, test prep, or new languages.",
+    "features": [
+      "Choose 1–5 tracks; start with a free placement/demo",
+      "Printed handouts and homework drills where applicable",
+      "Mock tests with evaluation for test‑prep tracks",
+      "Certificate(s) upon completion of each track",
+      "Advisor support to plan your sequence and schedule",
+      "Peaceful learning environment; small groups"
+    ],
+    "audienceTitle": "Who is this for?",
+    "audienceText": "Learners who want flexibility: improve English speaking, prepare for IELTS/PTE, or begin Japanese/Chinese—at their own pace."
+  },
+  "curriculum": [
+    {
+      "tabLabel": "Track 1 — Spoken English",
+      "title": "Confidence & Fluency (College/Work)",
+      "intro": "Speaking labs, role‑plays, pronunciation, targeted grammar & writing.",
+      "features": [
+        "30‑sec intros, debates, viva practice",
+        "Email/paragraph boosters",
+        "Vocabulary: word banks, collocations, idioms"
+      ],
+      "summary": "Practical speaking for campus and daily life."
+    },
+    {
+      "tabLabel": "Track 2 — IELTS Prep",
+      "title": "Listening · Reading · Writing · Speaking",
+      "intro": "Regular (3 mo) or Crash (1.5 mo); mocks with instant feedback.",
+      "features": [
+        "LRWS strategies & drills",
+        "WT1/WT2 frameworks",
+        "Cue‑card & Part‑3 coaching",
+        "Full mocks + reviews"
+      ],
+      "summary": "Score‑focused, exam‑style practice."
+    },
+    {
+      "tabLabel": "Track 3 — PTE Academic",
+      "title": "Computer‑based Integrated Skills",
+      "intro": "Speaking, Writing, Reading, Listening with analytics and templates.",
+      "features": [
+        "RA/RS/DI/RL task types",
+        "Timed sectional/full mocks",
+        "Fluency & pronunciation coaching"
+      ],
+      "summary": "Realistic labs and scoring insights."
+    },
+    {
+      "tabLabel": "Track 4 — Japanese (JLPT N5)",
+      "title": "Hiragana · Katakana · Basic Kanji & Grammar",
+      "intro": "Daily conversation and N5‑style prep with two mock tests.",
+      "features": [
+        "Script reading/writing",
+        "Common patterns & particles",
+        "Role‑plays and listening"
+      ],
+      "summary": "Solid beginner foundation for JLPT N5."
+    },
+    {
+      "tabLabel": "Track 5 — Chinese (HSK 1)",
+      "title": "Pinyin · Tones · Core Grammar & Vocabulary",
+      "intro": "Everyday dialogues, ~150 words, reading basics, two mock tests.",
+      "features": [
+        "Tone coaching & drills",
+        "Measure words & particles",
+        "Character/radical basics"
+      ],
+      "summary": "Beginner‑friendly path to HSK 1."
+    }
+  ],
+  "instructors": [
+    {
+      "name": "Faculty Team",
+      "role": "English · Test Prep · Japanese · Chinese",
+      "image": "https://cdn.prod.website-files.com/66cbf9eecd2d43a6644e1854/66e54d1d831de420da7dd70f_Team%20Member-6.webp",
+      "profileUrl": "#"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I take multiple tracks at once?",
+      "answer": "Yes—subject to batch availability. Advisors help schedule without clashes."
+    },
+    {
+      "question": "Is there a demo or placement?",
+      "answer": "Yes—FREE demo/placement for each track to set your level and plan."
+    },
+    {
+      "question": "Do I get materials?",
+      "answer": "Printed handouts and practice sheets for language tracks; full prep packets for IELTS/PTE."
+    },
+    {
+      "question": "Are mocks included?",
+      "answer": "Yes—in test‑prep tracks. Language tracks include progress checks and a final showcase."
+    },
+    {
+      "question": "Will I receive certificates?",
+      "answer": "Yes—per track on successful completion."
+    }
+  ],
+  "related": [
+    {
+      "image": "https://app.theurbangaragebd.com/edumig/images/Woman-Image-Holding-Copy_1Woman-Image-Holding-Copy.webp",
+      "category": "Test Prep",
+      "title": "IELTS Regular/Crash",
+      "ratingText": "Popular",
+      "price": "৳",
+      "detailsUrl": "#"
+    },
+    {
+      "image": "https://app.theurbangaragebd.com/edumig/images/Woman-Image-Holding-Copy_1Woman-Image-Holding-Copy.webp",
+      "category": "Languages",
+      "title": "Japanese — JLPT N5",
+      "ratingText": "Popular",
+      "price": "৳",
+      "detailsUrl": "#"
+    }
+  ],
+  "cta": {
+    "heading": "Bundle and save — pick your 5‑in‑1 tracks today.",
+    "primary": {
+      "label": "Choose Tracks & Enroll",
+      "url": "#"
+    },
+    "secondary": {
+      "label": "Talk to an Advisor",
+      "url": "#"
+    }
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "hero": {
+    "category": "Test Prep · PTE",
+    "title": "PTE Academic Preparation Course (Regular & Crash)",
+    "lessonsText": "Modular curriculum · Mock tests included"
+  },
+  "stats": [
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Clock-Icons-2.svg",
+      "label": "Schedule",
+      "value": "Flexible batches (see center)"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Books-Icons_1.svg",
+      "label": "Total classes",
+      "value": "Program-dependent (Regular/Crash)"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Skills-Arrow.svg",
+      "label": "Duration",
+      "value": "Regular or Crash options"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Video-Icons.svg",
+      "label": "Class Duration",
+      "value": "Typically 90 minutes"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Persons.svg",
+      "label": "Course Fee",
+      "value": "Contact for details"
+    }
+  ],
+  "overview": {
+    "description": "Score-focused preparation for the Pearson Test of English (PTE) Academic. Build integrated skills across Speaking, Writing, Reading, and Listening with strategy classes, timed drills, and computer-based mock tests.",
+    "features": [
+      "Computer-based practice aligned to PTE format",
+      "Strategy classes for all question types",
+      "Timed sectional and full-length mocks",
+      "Instant feedback with error logs",
+      "Printed/soft-copy materials",
+      "Speaking A.I. practice and pronunciation coaching",
+      "Exam registration guidance and test-day tips",
+      "FREE demo class available"
+    ],
+    "audienceTitle": "Who is this for?",
+    "audienceText": "Learners targeting university/immigration requirements who want a structured prep with realistic mocks and analytics."
+  },
+  "curriculum": [
+    {
+      "tabLabel": "Lesson 1",
+      "title": "Orientation & PTE Overview",
+      "intro": "Exam format, scoring, and success roadmaps.",
+      "features": [
+        "Module structure (S/W/R/L)",
+        "Scoring engine basics",
+        "Study plan"
+      ],
+      "summary": "Start with a clear prep strategy."
+    },
+    {
+      "tabLabel": "Lesson 2",
+      "title": "Speaking — Read Aloud · Repeat Sentence",
+      "intro": "Fluency, pronunciation, and content scoring.",
+      "features": [
+        "Chunking & pacing",
+        "Shadowing drills",
+        "Feedback cycles"
+      ],
+      "summary": "Stabilize fluency and pronunciation."
+    },
+    {
+      "tabLabel": "Lesson 3",
+      "title": "Speaking — Describe Image · Retell Lecture",
+      "intro": "Templates vs. natural structure.",
+      "features": [
+        "Key info extraction",
+        "Linkers",
+        "Timed practice"
+      ],
+      "summary": "Deliver coherent responses under time."
+    },
+    {
+      "tabLabel": "Lesson 4",
+      "title": "Writing — Summarize Written Text",
+      "intro": "One-sentence summaries with grammar control.",
+      "features": [
+        "Paraphrase tools",
+        "Complex/compound balance",
+        "Error log"
+      ],
+      "summary": "Concise summaries that score."
+    },
+    {
+      "tabLabel": "Lesson 5",
+      "title": "Writing — Essay (20 min)",
+      "intro": "Argument organization and lexical range.",
+      "features": [
+        "Thesis & plan",
+        "Paragraphing",
+        "Cohesion devices"
+      ],
+      "summary": "Produce consistent band-worthy essays."
+    },
+    {
+      "tabLabel": "Lesson 6",
+      "title": "Reading — MCQ & Re-order Paragraphs",
+      "intro": "Skim/scan, logic flow, and trap spotting.",
+      "features": [
+        "Anchor sentences",
+        "Connectors",
+        "Timed sets"
+      ],
+      "summary": "Raise accuracy and pacing."
+    },
+    {
+      "tabLabel": "Lesson 7",
+      "title": "Reading — Fill in the Blanks (R&W)",
+      "intro": "Collocations and grammar sensitivity.",
+      "features": [
+        "Cloze strategies",
+        "Word families",
+        "Corpus intuition drills"
+      ],
+      "summary": "Pick high-probability choices quickly."
+    },
+    {
+      "tabLabel": "Lesson 8",
+      "title": "Listening — Summarize Spoken Text",
+      "intro": "Note-taking & concise summaries.",
+      "features": [
+        "Shorthand system",
+        "Template practice",
+        "Self-check rubrics"
+      ],
+      "summary": "Convert audio to structured text."
+    },
+    {
+      "tabLabel": "Lesson 9",
+      "title": "Listening — Highlight Correct Summary & Others",
+      "intro": "Question-type mix and timing control.",
+      "features": [
+        "Elimination tactics",
+        "Distractor patterns",
+        "Timed drills"
+      ],
+      "summary": "Improve consistency across items."
+    },
+    {
+      "tabLabel": "Lesson 10",
+      "title": "Integrated Skills Lab I",
+      "intro": "Cross-module tasks under pressure.",
+      "features": [
+        "S+R combos",
+        "W+L combos",
+        "Error analysis"
+      ],
+      "summary": "Practice integration like the real test."
+    },
+    {
+      "tabLabel": "Lesson 11",
+      "title": "Mock Test A (Full) + Feedback",
+      "intro": "Computer-based simulation with analytics.",
+      "features": [
+        "Score breakdown",
+        "Weakness mapping",
+        "Action plan"
+      ],
+      "summary": "Benchmark and recalibrate."
+    },
+    {
+      "tabLabel": "Lesson 12",
+      "title": "Mock Test B (Full) + Exam Tips",
+      "intro": "Final simulation and last-mile guidance.",
+      "features": [
+        "Common pitfalls",
+        "Checklists",
+        "Mindset & stamina"
+      ],
+      "summary": "Walk into test day confident."
+    }
+  ],
+  "instructors": [
+    {
+      "name": "PTE Faculty",
+      "role": "PTE Instructors",
+      "image": "https://cdn.prod.website-files.com/66cbf9eecd2d43a6644e1854/66e54d1d831de420da7dd70f_Team%20Member-6.webp",
+      "profileUrl": "#"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is there a demo class?",
+      "answer": "Yes—free demo class is available."
+    },
+    {
+      "question": "Do you provide materials?",
+      "answer": "Yes, printed or digital resources plus practice sets."
+    },
+    {
+      "question": "Are mocks included?",
+      "answer": "Yes—sectional and full-length computer-based mocks with feedback."
+    },
+    {
+      "question": "What about speaking practice?",
+      "answer": "Live drills with instructor feedback plus A.I. pronunciation tools."
+    },
+    {
+      "question": "Can you help with registration?",
+      "answer": "We provide guidance for test booking and preparation timeline."
+    }
+  ],
+  "related": [
+    {
+      "image": "https://app.theurbangaragebd.com/edumig/images/Woman-Image-Holding-Copy_1Woman-Image-Holding-Copy.webp",
+      "category": "Test Prep",
+      "title": "IELTS Preparation (Regular & Crash)",
+      "ratingText": "Popular",
+      "price": "৳",
+      "detailsUrl": "#"
+    }
+  ],
+  "cta": {
+    "heading": "Get your PTE prep started — book a FREE demo class.",
+    "primary": {
+      "label": "Enroll in PTE",
+      "url": "#"
+    },
+    "secondary": {
+      "label": "Try a FREE demo",
+      "url": "#"
+    }
+  }
+}

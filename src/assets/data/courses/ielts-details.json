@@ -1,0 +1,234 @@
+{
+  "hero": {
+    "category": "Test Prep · IELTS",
+    "title": "IELTS Preparation Course (Regular & Crash)",
+    "lessonsText": "Regular: 3 months · Crash: 1.5 months"
+  },
+  "stats": [
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Clock-Icons-2.svg",
+      "label": "Regular Schedule",
+      "value": "Sat–Mon–Wed OR Sun–Tue–Thu"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Books-Icons_1.svg",
+      "label": "Batches (Regular)",
+      "value": "10:00–11:30 · 15:00–16:30 · 16:30–18:00 · 18:00–19:30 · 19:30–21:00"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Skills-Arrow.svg",
+      "label": "Crash Program",
+      "value": "1.5 months · 6 days/week (except Friday)"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Video-Icons.svg",
+      "label": "Class Duration",
+      "value": "90 minutes"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Persons.svg",
+      "label": "Course Fee",
+      "value": "৳ 8,500"
+    }
+  ],
+  "overview": {
+    "description": "IELTS Regular (3 months, 3 days/week) and Crash (1.5 months, 6 days/week) programs with expert instructors, full-length mocks, instant feedback, printed materials, and continuous support from registration to exam day.",
+    "features": [
+      "Exclusive access to our IELTS learning app (Android & iOS)",
+      "Printed study materials (Writing, Reading, Speaking, Listening)",
+      "Full-length mock exams with instant feedback",
+      "Continuous support—from registration to exam day",
+      "Experienced instructors & peaceful learning environment",
+      "Free demo classes available",
+      "Certificate collection from the institute",
+      "Study abroad advisory at no cost"
+    ],
+    "audienceTitle": "Who is this for?",
+    "audienceText": "Learners aiming for a strong IELTS score with structured practice, instant feedback, and regular mock tests."
+  },
+  "curriculum": [
+    {
+      "tabLabel": "Lesson 1",
+      "title": "Course Orientation & Test Overview",
+      "intro": "IELTS format, band descriptors, and success roadmap.",
+      "features": [
+        "Module breakdown (L/R/W/S)",
+        "Scoring basics",
+        "Study plan setup"
+      ],
+      "summary": "Start with clarity on goals and structure."
+    },
+    {
+      "tabLabel": "Lesson 2",
+      "title": "Listening — Question Types & Strategies",
+      "intro": "Approach for MCQ, form/table completion, maps, labeling.",
+      "features": [
+        "Predicting answers",
+        "Distraction traps",
+        "Note shorthand"
+      ],
+      "summary": "Listen smarter with proven strategies."
+    },
+    {
+      "tabLabel": "Lesson 3",
+      "title": "Listening — Intensive Practice",
+      "intro": "Timed sets with analysis and error log.",
+      "features": [
+        "Speed drills",
+        "Accent familiarization",
+        "Instant feedback"
+      ],
+      "summary": "Turn strategies into score gains."
+    },
+    {
+      "tabLabel": "Lesson 4",
+      "title": "Reading — Skim/Scan & Question Types",
+      "intro": "T/F/NG, Y/N/NG, headings, matching, completion.",
+      "features": [
+        "Trap spotting",
+        "Timing control",
+        "Locating info fast"
+      ],
+      "summary": "Crack reading with targeted tactics."
+    },
+    {
+      "tabLabel": "Lesson 5",
+      "title": "Reading — Section Practice",
+      "intro": "Module-wise sets + review.",
+      "features": [
+        "Passage mapping",
+        "Paraphrase mastery",
+        "Error review"
+      ],
+      "summary": "Improve accuracy and pacing."
+    },
+    {
+      "tabLabel": "Lesson 6",
+      "title": "Writing Task 1 — Visuals",
+      "intro": "Graphs, tables, charts, processes—structures and vocab.",
+      "features": [
+        "Overview writing",
+        "Comparisons",
+        "Trend language"
+      ],
+      "summary": "Write clear, band-boosting summaries."
+    },
+    {
+      "tabLabel": "Lesson 7",
+      "title": "Writing Task 2 — Essays",
+      "intro": "Opinion, discussion, problem-solution, advantage/disadvantage.",
+      "features": [
+        "Thesis & paragraphing",
+        "Cohesion devices",
+        "Lexical range"
+      ],
+      "summary": "Deliver organized, persuasive essays."
+    },
+    {
+      "tabLabel": "Lesson 8",
+      "title": "Speaking Part 1 & 2",
+      "intro": "Fluency and coherence with cue cards.",
+      "features": [
+        "Answer extension",
+        "Self-correction",
+        "Natural phrasing"
+      ],
+      "summary": "Confident starts and strong cue-card delivery."
+    },
+    {
+      "tabLabel": "Lesson 9",
+      "title": "Speaking Part 3",
+      "intro": "Abstract discussion and opinion development.",
+      "features": [
+        "Linking devices",
+        "Speculation language",
+        "Band vocabulary"
+      ],
+      "summary": "Handle complex questions with ease."
+    },
+    {
+      "tabLabel": "Lesson 10",
+      "title": "Mock Test A — Full",
+      "intro": "Simulated test under real timing.",
+      "features": [
+        "Instant feedback",
+        "Band estimate",
+        "Personal action plan"
+      ],
+      "summary": "Benchmark your current level."
+    },
+    {
+      "tabLabel": "Lesson 11",
+      "title": "Remedial Workshops",
+      "intro": "Extra tutorials on WT1, WT2 & Reading.",
+      "features": [
+        "Targeted drills",
+        "App homework",
+        "Instructor feedback"
+      ],
+      "summary": "Close skill gaps quickly."
+    },
+    {
+      "tabLabel": "Lesson 12",
+      "title": "Mock Test B — Final & Exam Day Tips",
+      "intro": "Final simulation + last-mile guidance.",
+      "features": [
+        "Common pitfalls",
+        "Checklists",
+        "Mindset & stamina"
+      ],
+      "summary": "Walk into test day prepared and calm."
+    }
+  ],
+  "instructors": [
+    {
+      "name": "IELTS Faculty",
+      "role": "IELTS Instructors",
+      "image": "https://cdn.prod.website-files.com/66cbf9eecd2d43a6644e1854/66e54d1d831de420da7dd70f_Team%20Member-6.webp",
+      "profileUrl": "#"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is there a demo class?",
+      "answer": "Yes, free demo classes are available."
+    },
+    {
+      "question": "Do I get printed materials?",
+      "answer": "Yes—unique printed study materials for all modules."
+    },
+    {
+      "question": "How many mocks are included?",
+      "answer": "Full-length mocks with instant feedback; app offers extensive practice lessons."
+    },
+    {
+      "question": "Do you provide app access?",
+      "answer": "Yes, Android & iOS app access with instant feedback and downloadable materials."
+    },
+    {
+      "question": "What batch times can I choose?",
+      "answer": "Multiple batches between 10:00–21:00 (see batch list)."
+    }
+  ],
+  "related": [
+    {
+      "image": "https://app.theurbangaragebd.com/edumig/images/Woman-Image-Holding-Copy_1Woman-Image-Holding-Copy.webp",
+      "category": "Test Prep",
+      "title": "IELTS Crash Program (1.5 months)",
+      "ratingText": "Popular",
+      "price": "৳",
+      "detailsUrl": "#"
+    }
+  ],
+  "cta": {
+    "heading": "Join our IELTS program—book a FREE demo today.",
+    "primary": {
+      "label": "Enroll in IELTS Regular",
+      "url": "#"
+    },
+    "secondary": {
+      "label": "Try a FREE demo class",
+      "url": "#"
+    }
+  }
+}

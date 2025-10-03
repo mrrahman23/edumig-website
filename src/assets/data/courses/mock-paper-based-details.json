@@ -1,0 +1,190 @@
+{
+  "hero": {
+    "category": "Test Prep · Mock Exam (Paper‑based)",
+    "title": "Paper‑based Mock Test Program",
+    "lessonsText": "Modular drills · Full mocks + reviews"
+  },
+  "stats": [
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Clock-Icons-2.svg",
+      "label": "Schedule",
+      "value": "To be announced"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Books-Icons_1.svg",
+      "label": "Full Mocks",
+      "value": "2–4 (paper‑based)"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Skills-Arrow.svg",
+      "label": "Practice Sets",
+      "value": "Sectional drills + answer sheet training"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Video-Icons.svg",
+      "label": "Session Length",
+      "value": "90–180 minutes (per module/mock)"
+    },
+    {
+      "icon": "https://app.theurbangaragebd.com/edumig/images/Persons.svg",
+      "label": "Mode",
+      "value": "Proctored, paper‑based"
+    }
+  ],
+  "overview": {
+    "description": "A focused paper‑based mock test track with strict timing, OMR/answer‑sheet practice, and rubric‑based feedback. Ideal as a final lead‑up to the official paper exam or as a diagnostic to build a targeted study plan.",
+    "features": [
+      "Proctored, paper‑based full‑length mock tests",
+      "Answer‑sheet/OMR practice with bubble discipline",
+      "Strict timing and invigilation rules",
+      "Error logs and band/score estimates",
+      "Sectional drills with strategy refreshers",
+      "Personalized action plan after each mock",
+      "Exam‑day checklist & stationery guidance",
+      "FREE demo/placement available"
+    ],
+    "audienceTitle": "Who is this for?",
+    "audienceText": "Learners preparing for paper‑based exams who want realistic simulation and targeted review."
+  },
+  "curriculum": [
+    {
+      "tabLabel": "Session 1",
+      "title": "Orientation & Paper Rules",
+      "intro": "Timing, invigilation, materials, answer‑sheet basics.",
+      "features": [
+        "Test flow",
+        "Pacing targets",
+        "Scoring overview"
+      ],
+      "summary": "Know the rules and scoring before you start."
+    },
+    {
+      "tabLabel": "Session 2",
+      "title": "Sectional Drills — Set A",
+      "intro": "Timed practice on each section.",
+      "features": [
+        "Answer‑sheet discipline",
+        "Trap patterns",
+        "Error log setup"
+      ],
+      "summary": "Build accuracy with controlled drills."
+    },
+    {
+      "tabLabel": "Session 3",
+      "title": "Full Mock Test A (Paper‑based)",
+      "intro": "Proctored simulation under exam timing.",
+      "features": [
+        "Strict timing",
+        "Stationery & layout",
+        "Invigilation"
+      ],
+      "summary": "Benchmark under real conditions."
+    },
+    {
+      "tabLabel": "Session 4",
+      "title": "Mock A Review & Feedback",
+      "intro": "Score breakdown and remediation plan.",
+      "features": [
+        "Weakness mapping",
+        "Target drills",
+        "Next steps"
+      ],
+      "summary": "Turn results into action."
+    },
+    {
+      "tabLabel": "Session 5",
+      "title": "Sectional Drills — Set B",
+      "intro": "Fresh timed drills targeting weak areas.",
+      "features": [
+        "Speed rounds",
+        "Shorthand strategies",
+        "Peer tips"
+      ],
+      "summary": "Close gaps with focused practice."
+    },
+    {
+      "tabLabel": "Session 6",
+      "title": "Full Mock Test B (Paper‑based)",
+      "intro": "Second proctored simulation.",
+      "features": [
+        "Timing refinement",
+        "Stress handling",
+        "Strategy locks"
+      ],
+      "summary": "Stabilize performance."
+    },
+    {
+      "tabLabel": "Session 7",
+      "title": "Mock B Review + Rubric Coaching",
+      "intro": "Detailed rubric discussion (task, coherence, accuracy).",
+      "features": [
+        "Model answers",
+        "Band descriptors",
+        "Personalized drills"
+      ],
+      "summary": "Understand how points are won/lost."
+    },
+    {
+      "tabLabel": "Session 8",
+      "title": "Exam‑day Tips & Final Readiness",
+      "intro": "Checklist, nutrition, sleep, mindset.",
+      "features": [
+        "Pacing templates",
+        "Bubble discipline",
+        "Last‑minute dos/don'ts"
+      ],
+      "summary": "Walk in confident and prepared."
+    }
+  ],
+  "instructors": [
+    {
+      "name": "Mock Test Faculty",
+      "role": "Test Prep Instructors",
+      "image": "https://cdn.prod.website-files.com/66cbf9eecd2d43a6644e1854/66e54d1d831de420da7dd70f_Team%20Member-6.webp",
+      "profileUrl": "#"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is this identical to the official paper exam?",
+      "answer": "We mirror timing, format, and proctoring closely. Materials are equivalent practice papers—not official exam papers."
+    },
+    {
+      "question": "Do I get scores and feedback?",
+      "answer": "Yes—score estimates, error logs, and a personal action plan after each mock."
+    },
+    {
+      "question": "Are answer sheets included?",
+      "answer": "Yes—OMR/answer‑sheet practice is part of the simulation."
+    },
+    {
+      "question": "Can I attend a demo/placement?",
+      "answer": "Yes—FREE demo or placement test available."
+    },
+    {
+      "question": "How many mocks are included?",
+      "answer": "By default two (A & B). We can add more as needed."
+    }
+  ],
+  "related": [
+    {
+      "image": "https://app.theurbangaragebd.com/edumig/images/Woman-Image-Holding-Copy_1Woman-Image-Holding-Copy.webp",
+      "category": "Test Prep",
+      "title": "IELTS Preparation (Regular & Crash)",
+      "ratingText": "Popular",
+      "price": "৳",
+      "detailsUrl": "#"
+    }
+  ],
+  "cta": {
+    "heading": "Simulate the real test — book a paper‑based mock now.",
+    "primary": {
+      "label": "Book Mock Test",
+      "url": "#"
+    },
+    "secondary": {
+      "label": "Try a FREE demo",
+      "url": "#"
+    }
+  }
+}

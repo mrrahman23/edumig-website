@@ -22,7 +22,7 @@
           <div class="heading-six margin-bottom-five category-text">
             {{ cat.title }}
           </div>
-          <div>{{ cat.courses }} Courses</div>
+          <div *ngIf="cat.courses">{{ cat.courses }} Courses</div>
         </a>
       </div>
     </div>
