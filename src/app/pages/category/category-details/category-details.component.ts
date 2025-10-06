@@ -7,7 +7,7 @@ import { ActivatedRoute, RouterLink } from '@angular/router';
 @Component({
   selector: 'app-category-details',
   standalone: true,
-  imports: [CommonModule, HttpClientModule, CoursesListTwoComponent,RouterLink],
+  imports: [CommonModule, HttpClientModule, CoursesListTwoComponent, RouterLink],
   templateUrl: './category-details.component.html',
   styleUrl: './category-details.component.scss'
 })

@@ -1,0 +1,92 @@
+<a class="sr-only" href="#main">Skip to content</a>
+
+<main id="main" class="hero" aria-labelledby="hero-title">
+  <div class="kicker" *ngIf="data?.kicker as k">{{ k }}</div>
+  <h1 id="hero-title" class="title" style="color: unset;">
+    {{ data?.title || 'Where would you like to go?' }}
+  </h1>
+
+  <!-- Floating logo that changes on hover/focus -->
+  <!-- <div class="active-logo" [class.show]="activeLogo">
+    <img *ngIf="activeLogo" [src]="activeLogo" alt="" />
+  </div> -->
+
+  <p class="lead" *ngIf="data?.lead as l">{{ l }}</p>
+
+  <section class="grid" aria-label="Primary choices">
+    <article class="card"
+             *ngFor="let b of data?.branches; let i = index"
+             [style.--span]="desktopSpan(i)"
+             [attr.aria-label]="b.label">
+      <ng-container *ngIf="isExternal(b.href); else internal">
+        <a class="card-link"
+           [href]="b.href" target="_blank" rel="noopener noreferrer"
+           [attr.aria-describedby]="b.id + '-subtitle'"
+           (mouseenter)="setActive(b.logo)"
+           (focus)="setActive(b.logo)"
+           (mouseleave)="clearActive()"
+           (blur)="clearActive()">
+
+          <div class="media">
+            <!-- Per-tile image -->
+            <img *ngIf="b.image" [src]="b.image" [alt]="b.label" />
+            <!-- Optional small brand in the tile corner -->
+            <img *ngIf="b.logo" class="corner-logo" [src]="b.logo" alt="" />
+            <span class="tag" [style.border]="accentBorder(b.accent)">{{ b.tag || 'Explore' }}</span>
+          </div>
+
+          <div class="body">
+            <h3 style="color: white !important;">{{ b.label }}</h3>
+            <p [id]="b.id + '-subtitle'">{{ b.subtitle || '' }}</p>
+            <div class="cta" [style.color]="b.accent || 'inherit'">
+              Continue
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                   stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path>
+              </svg>
+            </div>
+          </div>
+        </a>
+      </ng-container>
+
+      <ng-template #internal>
+        <!-- If you want RouterLink, make sure RouterModule is imported in this component/page -->
+        <a class="card-link"
+           [routerLink]="b.href || '/elp'"
+           [attr.aria-describedby]="b.id + '-subtitle'"
+           (mouseenter)="setActive(b.logo)"
+           (focus)="setActive(b.logo)"
+           (mouseleave)="clearActive()"
+           (blur)="clearActive()">
+
+          <div class="media">
+            <img *ngIf="b.image" [src]="b.image" [alt]="b.label" />
+            <img *ngIf="b.logo" class="corner-logo" [src]="b.logo" alt="" />
+            <span class="tag" [style.border]="accentBorder(b.accent)">{{ b.tag || 'Explore' }}</span>
+          </div>
+
+          <div class="body">
+            <h3 style="color: white !important;">{{ b.label }}</h3>
+            <p [id]="b.id + '-subtitle'">{{ b.subtitle || '' }}</p>
+            <div class="cta" [style.color]="b.accent || 'inherit'">
+              Continue
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                   stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path>
+              </svg>
+            </div>
+          </div>
+        </a>
+      </ng-template>
+    </article>
+  </section>
+</main>
+
+<footer class="footer">
+  <div>© {{ year }} Edumig</div>
+  <div class="foot-links">
+    <span>Privacy</span>
+    <span>Terms</span>
+    <span>Accessibility</span>
+  </div>
+</footer>

@@ -1,0 +1,35 @@
+:host {
+   /* Page background (color + image) */
+   --bg: #0f252a;
+   --fg: #e7edf5;
+ 
+   display: block;
+   color: var(--fg);
+   min-height: 100svh;
+ 
+   background-color: var(--bg);
+   background-image:
+   //   linear-gradient(180deg, rgba(15,37,42,.72), rgba(15,37,42,.72)),
+     url('https://app.theurbangaragebd.com/edumig/images/background/LandingBackground.avif');
+   background-repeat: no-repeat, no-repeat;
+   background-position: center center, center center;
+   background-size: cover, cover;
+   background-attachment: fixed, fixed;
+   font: 16px/1.5 system-ui, -apple-system, Segoe UI, Roboto, Inter, Arial;
+ }
+ 
+ /* Header styling for this page */
+ .header {
+   display: flex; gap: 16px; align-items: center;
+   padding: 22px clamp(16px, 6vw, 56px);
+ }
+ .brand { display: flex; align-items: center; gap: 12px; font-weight: 700; }
+ .logo {
+   width: 36px; height: 36px; border-radius: 12px;
+   background: linear-gradient(135deg,#6ee7f0,#7c3aed);
+   box-shadow: 0 10px 25px rgba(0,0,0,.35);
+ }
+ .secondary-nav { margin-left: auto; opacity: .9; font-size: .95rem; display: flex; gap: 16px; }
+ .nav-link { color: var(--fg); text-decoration: none; opacity: .9; }
+ .nav-link:hover { text-decoration: underline; }
+ 

@@ -11,9 +11,10 @@ export const routes: Routes = [
   // Public standalone login page (no global navbar/footer)
   { path: 'sign-in', component: LoginComponent },
   { path: 'sign-up', component: SignUpComponent },
+  { path: '', loadComponent: () => import('./pages/index/switching.component').then(m => m.SwitchingComponent) },
   
   {
-    path: '',
+    path: 'elp',
     component: LayoutComponent,
     children: [
       { path: '', component: HomeOneComponent },
